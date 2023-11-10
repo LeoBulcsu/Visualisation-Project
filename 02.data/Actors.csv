@@ -1,0 +1,3769 @@
+,Name,ID
+0,Tim Robbins ,1
+1, Morgan Freeman ,2
+2, Bob Gunton ,3
+3, William Sadler ,4
+4, Clancy Brown ,5
+5, Gil Bellows ,6
+6, Mark Rolston ,7
+7, James Whitmore ,8
+8, Jeffrey DeMunn ,9
+9, Larry Brandenburg ,10
+10, Neil Giuntoli ,11
+11, Brian Libby ,12
+12, David Proval ,13
+13, Joseph Ragno ,14
+14, Jude Ciccolella ,15
+15, Paul McCrane ,16
+16, Renee Blaine ,17
+17, Scott Mann ,18
+18,Marlon Brando ,19
+19, Al Pacino ,20
+20, James Caan ,21
+21, Diane Keaton ,22
+22, Richard S. Castellano ,23
+23, Robert Duvall ,24
+24, Sterling Hayden ,25
+25, John Marley ,26
+26, Richard Conte ,27
+27, Al Lettieri ,28
+28, Abe Vigoda ,29
+29, Talia Shire ,30
+30, Gianni Russo ,31
+31, John Cazale ,32
+32, Rudy Bond ,33
+33, Al Martino ,34
+34, Morgana King ,35
+35, Lenny Montana ,36
+36,Christian Bale ,37
+37, Heath Ledger ,38
+38, Aaron Eckhart ,39
+39, Michael Caine ,40
+40, Maggie Gyllenhaal ,41
+41, Gary Oldman ,42
+42, Monique Gabriela Curnen ,43
+43, Ron Dean ,44
+44, Cillian Murphy ,45
+45, Chin Han ,46
+46, Nestor Carbonell ,47
+47, Eric Roberts ,48
+48, Ritchie Coster ,49
+49, Anthony Michael Hall ,50
+50, Keith Szarabajka ,51
+51, Colin McFarlane ,52
+52, Joshua Harto ,53
+53,Al Pacino ,54
+54, Robert De Niro ,55
+55, Lee Strasberg ,56
+56, Michael V. Gazzo ,57
+57, G.D. Spradlin ,58
+58, Richard Bright ,59
+59, Gastone Moschin ,60
+60, Tom Rosqui ,61
+61, Bruno Kirby ,62
+62, Frank Sivero ,63
+63, Francesca De Sapio ,64
+64, Marianna Hill ,65
+65, Leopoldo Trieste ,66
+66,Henry Fonda ,67
+67, Lee J. Cobb ,68
+68, Martin Balsam ,69
+69, John Fiedler ,70
+70, E.G. Marshall ,71
+71, Jack Klugman ,72
+72, Edward Binns ,73
+73, Jack Warden ,74
+74, Joseph Sweeney ,75
+75, Ed Begley ,76
+76, George Voskovec ,77
+77, Robert Webber ,78
+78, Tom Gorman ,79
+79, James Kelly ,80
+80, Billy Nelson ,81
+81, John Savoca ,82
+82, Walter Stocker ,83
+83,Liam Neeson ,84
+84, Ralph Fiennes ,85
+85, Ben Kingsley ,86
+86, Caroline Goodall ,87
+87, Jonathan Sagall ,88
+88, Embeth Davidtz ,89
+89, Malgorzata Gebel ,90
+90, Shmuel Levy ,91
+91, Mark Ivanir ,92
+92, Béatrice Macola ,93
+93, Andrzej Seweryn ,94
+94, Friedrich von Thun ,95
+95, Krzysztof Luft ,96
+96, Harry Nehring ,97
+97, Norbert Weisser ,98
+98, Adi Nitzan ,99
+99, Michael Schneider ,100
+100, Miri Fabian ,101
+101,Elijah Wood ,102
+102, Viggo Mortensen ,103
+103, Ian McKellen ,104
+104, Orlando Bloom ,105
+105, Noel Appleby ,106
+106, Ali Astin ,107
+107, Sean Astin ,108
+108, David Aston ,109
+109, John Bach ,110
+110, Sean Bean ,111
+111, Cate Blanchett ,112
+112, Billy Boyd ,113
+113, Sadwyn Brophy ,114
+114, Alistair Browning ,115
+115, Marton Csokas ,116
+116, Richard Edge ,117
+117, Jason Fitch ,118
+118, Bernard Hill ,119
+119,John Travolta ,120
+120, Uma Thurman ,121
+121, Samuel L. Jackson ,122
+122, Bruce Willis ,123
+123, Tim Roth ,124
+124, Amanda Plummer ,125
+125, Laura Lovelace ,126
+126, Phil LaMarr ,127
+127, Frank Whaley ,128
+128, Burr Steers ,129
+129, Ving Rhames ,130
+130, Paul Calderon ,131
+131, Bronagh Gallagher ,132
+132, Rosanna Arquette ,133
+133, Eric Stoltz ,134
+134, Jerome Patrick Hoban ,135
+135, Michael Gilden ,136
+136, Gary Shorelle ,137
+137, Alan Howard ,138
+138, Sala Baker ,139
+139, Andy Serkis ,140
+140, Megan Edwards ,141
+141, Michael Elsworth ,142
+142, Mark Ferguson ,143
+143, Ian Holm ,144
+144, Christopher Lee ,145
+145,Clint Eastwood ,146
+146, Eli Wallach ,147
+147, Lee Van Cleef ,148
+148, Aldo Giuffrè ,149
+149, Luigi Pistilli ,150
+150, Rada Rassimov ,151
+151, Enzo Petito ,152
+152, Claudio Scarchilli ,153
+153, John Bartha ,154
+154, Livio Lorenzon ,155
+155, Antonio Casale ,156
+156, Sandro Scarchilli ,157
+157, Benito Stefanelli ,158
+158, Angelo Novi ,159
+159, Antonio Casas ,160
+160, Aldo Sambrell ,161
+161, Al Mulock ,162
+162, Sergio Mendizábal ,163
+163,Tom Hanks ,164
+164, Robin Wright ,165
+165, Gary Sinise ,166
+166, Sally Field ,167
+167, Rebecca Williams ,168
+168, Michael Conner Humphreys ,169
+169, Harold G. Herthum ,170
+170, George Kelly ,171
+171, Bob Penny ,172
+172, John Randall ,173
+173, Sam Anderson ,174
+174, Margo Moorer ,175
+175, Ione M. Telech ,176
+176, Christine Seabrook ,177
+177, John Worsham ,178
+178, Peter Dobson ,179
+179, Siobhan Fallon Hogan ,180
+180, Alexander Zemeckis ,181
+181,Brad Pitt ,182
+182, Edward Norton ,183
+183, Meat Loaf ,184
+184, Zach Grenier ,185
+185, Richmond Arquette ,186
+186, David Andrews ,187
+187, George Maguire ,188
+188, Eugenie Bondurant ,189
+189, Christina Cabot ,190
+190, Helena Bonham Carter ,191
+191, Sydney 'Big Dawg' Colston ,192
+192, Rachel Singer ,193
+193, Christie Cronenweth ,194
+194, Tim DeZarn ,195
+195, Ezra Buzzington ,196
+196, Dierdre Downing-Jackson ,197
+197, Bob Stephenson ,198
+198, Charlie Dell ,199
+199, Bruce Allpress ,200
+200, Jed Brophy ,201
+201, Sam Comery ,202
+202, Brad Dourif ,203
+203, Calum Gittins ,204
+204, Bruce Hopkins ,205
+205, Paris Howe Strewe ,206
+206,Leonardo DiCaprio ,207
+207, Joseph Gordon-Levitt ,208
+208, Elliot Page ,209
+209, Ken Watanabe ,210
+210, Tom Hardy ,211
+211, Dileep Rao ,212
+212, Tom Berenger ,213
+213, Marion Cotillard ,214
+214, Pete Postlethwaite ,215
+215, Lukas Haas ,216
+216, Tai-Li Lee ,217
+217, Claire Geare ,218
+218, Magnus Nolan ,219
+219, Taylor Geare ,220
+220, Johnathan Geare ,221
+221, Tohoru Masamune ,222
+222,Mark Hamill ,223
+223, Harrison Ford ,224
+224, Carrie Fisher ,225
+225, Billy Dee Williams ,226
+226, Anthony Daniels ,227
+227, David Prowse ,228
+228, Peter Mayhew ,229
+229, Kenny Baker ,230
+230, Frank Oz ,231
+231, Alec Guinness ,232
+232, Jeremy Bulloch ,233
+233, John Hollis ,234
+234, Lando's Aide ,235
+235, Chief Ugnaught ,236
+236, Snow Creature ,237
+237, Emperor(voice) ,238
+238, Admiral Piett ,239
+239, General Veers ,240
+240, Admiral Ozzel,241
+241,Keanu Reeves ,242
+242, Laurence Fishburne ,243
+243, Carrie-Anne Moss ,244
+244, Hugo Weaving ,245
+245, Gloria Foster ,246
+246, Joe Pantoliano ,247
+247, Marcus Chong ,248
+248, Julian Arahanga ,249
+249, Matt Doran ,250
+250, Belinda McClory ,251
+251, Anthony Ray Parker ,252
+252, Paul Goddard ,253
+253, Robert Taylor ,254
+254, Marc Aden Gray ,255
+255, Ada Nicodemou ,256
+256, Deni Gordon ,257
+257, Rowan Witt ,258
+258,Robert De Niro ,259
+259, Ray Liotta ,260
+260, Joe Pesci ,261
+261, Lorraine Bracco ,262
+262, Paul Sorvino ,263
+263, Tony Darrow ,264
+264, Mike Starr ,265
+265, Frank Vincent ,266
+266, Chuck Low ,267
+267, Frank DiLeo ,268
+268, Henny Youngman ,269
+269, Gina Mastrogiacomo ,270
+270, Catherine Scorsese ,271
+271, Charles Scorsese ,272
+272, Suzanne Shepherd ,273
+273, Debi Mazar ,274
+274, Margo Winkler ,275
+275,Jack Nicholson ,276
+276, Louise Fletcher ,277
+277, Michael Berryman ,278
+278, Peter Brocco ,279
+279, Dean R. Brooks ,280
+280, Alonzo Brown ,281
+281, Scatman Crothers ,282
+282, Mwako Cumbuka ,283
+283, Danny DeVito ,284
+284, William Duell ,285
+285, Josip Elic ,286
+286, Lan Fendors ,287
+287, Nathan George ,288
+288, Ken Kenny ,289
+289, Mel Lambert ,290
+290, Sydney Lassick ,291
+291, Kay Lee ,292
+292, Christopher Lloyd ,293
+293,Morgan Freeman ,294
+294, Brad Pitt ,295
+295, Kevin Spacey ,296
+296, Andrew Kevin Walker ,297
+297, Daniel Zacapa ,298
+298, Gwyneth Paltrow ,299
+299, John Cassini ,300
+300, Bob Mack ,301
+301, Peter Crombie ,302
+302, Reg E. Cathey ,303
+303, R. Lee Ermey ,304
+304, George Christy ,305
+305, Endre Hules ,306
+306, Hawthorne James ,307
+307, William Davidson ,308
+308, Bob Collins ,309
+309, Jimmy Dale Hartsell ,310
+310, Richard Roundtree ,311
+311,James Stewart ,312
+312, Donna Reed ,313
+313, Lionel Barrymore ,314
+314, Thomas Mitchell ,315
+315, Henry Travers ,316
+316, Beulah Bondi ,317
+317, Frank Faylen ,318
+318, Ward Bond ,319
+319, Gloria Grahame ,320
+320, H.B. Warner ,321
+321, Frank Albertson ,322
+322, Todd Karns ,323
+323, Samuel S. Hinds ,324
+324, Mary Treen ,325
+325, Virginia Patton ,326
+326, Charles Williams ,327
+327, Sarah Edwards ,328
+328, William Edmunds ,329
+329,Toshirô Mifune ,330
+330, Takashi Shimura ,331
+331, Keiko Tsushima ,332
+332, Yukiko Shimazaki ,333
+333, Kamatari Fujiwara ,334
+334, Daisuke Katô ,335
+335, Isao Kimura ,336
+336, Minoru Chiaki ,337
+337, Seiji Miyaguchi ,338
+338, Yoshio Kosugi ,339
+339, Bokuzen Hidari ,340
+340, Yoshio Inaba ,341
+341, Yoshio Tsuchiya ,342
+342, Kokuten Kôdô ,343
+343, Eijirô Tôno ,344
+344, Kichijirô Ueda ,345
+345, Jun Tatara ,346
+346, Atsushi Watanabe ,347
+347,Matthew McConaughey ,348
+348, Anne Hathaway ,349
+349, Jessica Chastain ,350
+350, Mackenzie Foy ,351
+351, Ellen Burstyn ,352
+352, John Lithgow ,353
+353, Timothée Chalamet ,354
+354, David Oyelowo ,355
+355, Collette Wolfe ,356
+356, Francis X. McCarthy ,357
+357, Bill Irwin ,358
+358, Andrew Borba ,359
+359, Wes Bentley ,360
+360, William Devane ,361
+361, David Gyasi ,362
+362, Josh Stewart ,363
+363, Casey Affleck ,364
+364,Jodie Foster ,365
+365, Anthony Hopkins ,366
+366, Scott Glenn ,367
+367, Ted Levine ,368
+368, Anthony Heald ,369
+369, Brooke Smith ,370
+370, Diane Baker ,371
+371, Kasi Lemmons ,372
+372, Charles Napier ,373
+373, Tracey Walter ,374
+374, Roger Corman ,375
+375, Ron Vawter ,376
+376, Danny Darst ,377
+377, Jeffrie Lane ,378
+378, Frankie Faison ,379
+379, Paul Lazar ,380
+380, Dan Butler ,381
+381, Chris Isaak ,382
+382,Shameik Moore ,383
+383, Hailee Steinfeld ,384
+384, Brian Tyree Henry ,385
+385, Luna Lauren Velez ,386
+386, Jake Johnson ,387
+387, Oscar Isaac ,388
+388, Jason Schwartzman ,389
+389, Issa Rae ,390
+390, Daniel Kaluuya ,391
+391, Karan Soni ,392
+392, Shea Whigham ,393
+393, Greta Lee ,394
+394, Mahershala Ali ,395
+395, Amandla Stenberg ,396
+396, Jharrel Jerome ,397
+397, Andy Samberg ,398
+398, Jack Quaid ,399
+399, Rachel Dratch ,400
+400, Matt Damon ,401
+401, Tom Sizemore ,402
+402, Edward Burns ,403
+403, Barry Pepper ,404
+404, Adam Goldberg ,405
+405, Vin Diesel ,406
+406, Giovanni Ribisi ,407
+407, Jeremy Davies ,408
+408, Ted Danson ,409
+409, Paul Giamatti ,410
+410, Dennis Farina ,411
+411, Joerg Stadler ,412
+412, Max Martini ,413
+413, Dylan Bruno ,414
+414, Daniel Cerqueira ,415
+415, Demetri Goritsas ,416
+416, Ian Porter ,417
+417,Alexandre Rodrigues ,418
+418, Leandro Firmino ,419
+419, Matheus Nachtergaele ,420
+420, Phellipe Haagensen ,421
+421, Douglas Silva ,422
+422, Jonathan Haagensen ,423
+423, Seu Jorge ,424
+424, Jefechander Suplino ,425
+425, Alice Braga ,426
+426, Emerson Gomes ,427
+427, Edson Oliveira ,428
+428, Michel Gomes ,429
+429, Roberta Rodrigues ,430
+430, Luis Otávio ,431
+431, Kiko Marques ,432
+432, Gustavo Engrácia ,433
+433, Darlan Cunha ,434
+434, Robson Rocha ,435
+435,Roberto Benigni ,436
+436, Nicoletta Braschi ,437
+437, Giorgio Cantarini ,438
+438, Giustino Durano ,439
+439, Sergio Bini Bustric ,440
+440, Marisa Paredes ,441
+441, Horst Buchholz ,442
+442, Lidia Alfonsi ,443
+443, Giuliana Lojodice ,444
+444, Amerigo Fontani ,445
+445, Pietro De Silva ,446
+446, Francesco Guzzo ,447
+447, Raffaella Lebboroni ,448
+448, Claudio Alfonsi ,449
+449, Gil Baroni ,450
+450, Massimo Bianchi ,451
+451, Jürgen Bohn ,452
+452, Verena Buratti ,453
+453, Michael Clarke Duncan ,454
+454, David Morse ,455
+455, Bonnie Hunt ,456
+456, James Cromwell ,457
+457, Michael Jeter ,458
+458, Graham Greene ,459
+459, Doug Hutchison ,460
+460, Sam Rockwell ,461
+461, Patricia Clarkson ,462
+462, Harry Dean Stanton ,463
+463, Dabbs Greer ,464
+464, Eve Brent ,465
+465, Mack Miles ,466
+466, Rai Tasco ,467
+467, Peter Cushing ,468
+468, Phil Brown ,469
+469, Shelagh Fraser ,470
+470, Jack Purvis ,471
+471, Alex McCrindle ,472
+472, Eddie Byrne ,473
+473, Drewe Henley ,474
+474, Denis Lawson ,475
+475, Garrick Hagon ,476
+476, Jack Klaff ,477
+477,Arnold Schwarzenegger ,478
+478, Linda Hamilton ,479
+479, Edward Furlong ,480
+480, Robert Patrick ,481
+481, Earl Boen ,482
+482, Joe Morton ,483
+483, S. Epatha Merkerson ,484
+484, Castulo Guerra ,485
+485, Danny Cooksey ,486
+486, Jenette Goldstein ,487
+487, Xander Berkeley ,488
+488, Leslie Hamilton Gearren ,489
+489, Ken Gibbel ,490
+490, Robert Winley ,491
+491, Pete Schrum ,492
+492, Shane Wilder ,493
+493, Michael Edwards ,494
+494, Jared Lounsbery ,495
+495,Michael J. Fox ,496
+496, Lea Thompson ,497
+497, Crispin Glover ,498
+498, Tom Wilson ,499
+499, Claudia Wells ,500
+500, Marc McClure ,501
+501, Wendie Jo Sperber ,502
+502, George DiCenzo ,503
+503, Frances Lee McCain ,504
+504, James Tolkan ,505
+505, J.J. Cohen ,506
+506, Casey Siemaszko ,507
+507, Billy Zane ,508
+508, Harry Waters Jr. ,509
+509, Donald Fullilove ,510
+510, Lisa Freeman ,511
+511, Cristen Kauffman ,512
+512,Daveigh Chase ,513
+513, Suzanne Pleshette ,514
+514, Miyu Irino ,515
+515, Rumi Hiiragi ,516
+516, Mari Natsuki ,517
+517, Takashi Naitô ,518
+518, Yasuko Sawaguchi ,519
+519, Tatsuya Gashûin ,520
+520, Ryunosuke Kamiki ,521
+521, Yumi Tamai ,522
+522, Yô Ôizumi ,523
+523, Koba Hayashi ,524
+524, Tsunehiko Kamijô ,525
+525, Takehiko Ono ,526
+526, Bunta Sugawara ,527
+527, Shigeru Wakita ,528
+528, Michiko Yamamoto,529
+529,Adrien Brody ,530
+530, Thomas Kretschmann ,531
+531, Frank Finlay ,532
+532, Emilia Fox ,533
+533, Michal Zebrowski ,534
+534, Ed Stoppard ,535
+535, Maureen Lipman ,536
+536, Jessica Kate Meyer ,537
+537, Julia Rayner ,538
+538, Wanja Mues ,539
+539, Richard Ridings ,540
+540, Nomi Sharron ,541
+541, Anthony Milner ,542
+542, Lucy Skeaping ,543
+543, Roddy Skeaping ,544
+544, Ben Harlan ,545
+545, Thomas Lawinky ,546
+546, Joachim Paul Assböck ,547
+547,Anthony Perkins ,548
+548, Janet Leigh ,549
+549, Vera Miles ,550
+550, John Gavin ,551
+551, John McIntire ,552
+552, Simon Oakland ,553
+553, Patricia Hitchcock ,554
+554, Vaughn Taylor ,555
+555, Lurene Tuttle ,556
+556, John Anderson ,557
+557, Mort Mills ,558
+558, Fletcher Allen ,559
+559, Walter Bacon ,560
+560, Prudence Beers ,561
+561, Kit Carson ,562
+562, Francis De Sales ,563
+563,Song Kang-ho ,564
+564, Lee Sun-kyun ,565
+565, Cho Yeo-jeong ,566
+566, Choi Woo-sik ,567
+567, Park So-dam ,568
+568, Lee Jeong-eun ,569
+569, Jang Hye-jin ,570
+570, Park Myeong-hoon ,571
+571, Jung Ji-so ,572
+572, Jung Hyun-jun ,573
+573, Park Keun-rok ,574
+574, Jung Yi-seo ,575
+575, Jo Jae-myeong ,576
+576, Jung Ik-han ,577
+577, Kim Kyu-baek ,578
+578, Hwang In-kyung ,579
+579, Ahn Seong-bong ,580
+580, Kim Jin-hyung ,581
+581,Russell Crowe ,582
+582, Joaquin Phoenix ,583
+583, Connie Nielsen ,584
+584, Oliver Reed ,585
+585, Richard Harris ,586
+586, Derek Jacobi ,587
+587, Djimon Hounsou ,588
+588, David Schofield ,589
+589, John Shrapnel ,590
+590, Tomas Arana ,591
+591, Ralf Moeller ,592
+592, Spencer Treat Clark ,593
+593, David Hemmings ,594
+594, Tommy Flanagan ,595
+595, Sven-Ole Thorsen ,596
+596, Omid Djalili ,597
+597, Nicholas McGaughey ,598
+598, Chris Kell ,599
+599,Matthew Broderick ,600
+600, Jeremy Irons ,601
+601, James Earl Jones ,602
+602, Whoopi Goldberg ,603
+603, Rowan Atkinson ,604
+604, Niketa Calame-Harris ,605
+605, Jim Cummings ,606
+606, Robert Guillaume ,607
+607, Moira Kelly ,608
+608, Nathan Lane ,609
+609, Zoe Leader ,610
+610, Cheech Marin ,611
+611, Ernie Sabella ,612
+612, Madge Sinclair ,613
+613, Jonathan Taylor Thomas ,614
+614, Frank Welker ,615
+615, Cathy Cavadini ,616
+616, Judi M. Durand ,617
+617,Jean Reno ,618
+618, Natalie Portman ,619
+619, Danny Aiello ,620
+620, Peter Appel ,621
+621, Willi One Blood ,622
+622, Don Creech ,623
+623, Keith A. Glascoe ,624
+624, Randolph Scott ,625
+625, Michael Badalucco ,626
+626, Ellen Greene ,627
+627, Elizabeth Regen ,628
+628, Carl J. Matusovich ,629
+629, Frank Senger ,630
+630, Lucius Wyatt Cherokee ,631
+631, Eric Challier ,632
+632, Luc Bernard ,633
+633, Maïwenn ,634
+634,Edward Norton ,635
+635, Beverly D'Angelo ,636
+636, Jennifer Lien ,637
+637, Ethan Suplee ,638
+638, Fairuza Balk ,639
+639, Avery Brooks ,640
+640, Elliott Gould ,641
+641, Stacy Keach ,642
+642, William Russ ,643
+643, Guy Torry ,644
+644, Joe Cortese ,645
+645, Jason Bose Smith ,646
+646, Antonio David Lyons ,647
+647, Alex Sol ,648
+648, Keram Malicki-Sánchez ,649
+649, Giuseppe Andrews ,650
+650, Michelle Christine White ,651
+651, Jack Nicholson ,652
+652, Mark Wahlberg ,653
+653, Martin Sheen ,654
+654, Ray Winstone ,655
+655, Vera Farmiga ,656
+656, Anthony Anderson ,657
+657, Alec Baldwin ,658
+658, Kevin Corrigan ,659
+659, James Badge Dale ,660
+660, David O'Hara ,661
+661, Robert Wahlberg ,662
+662, Kristen Dalton ,663
+663, Thomas B. Duffy ,664
+664, Richard Hughes ,665
+665, J.C. MacKenzie ,666
+666,Miles Teller ,667
+667, J.K. Simmons ,668
+668, Melissa Benoist ,669
+669, Paul Reiser ,670
+670, Austin Stowell ,671
+671, Nate Lang ,672
+672, Chris Mulkey ,673
+673, Damon Gupton ,674
+674, Suanne Spoke ,675
+675, Max Kasch ,676
+676, Charlie Ian ,677
+677, Jayson Blair ,678
+678, Kofi Siriboe ,679
+679, Kavita Patil ,680
+680, C.J. Vana ,681
+681, Tarik Lowe ,682
+682, Tyler Kimball ,683
+683, Rogelio Douglas Jr. ,684
+684, Hugh Jackman ,685
+685, Scarlett Johansson ,686
+686, Piper Perabo ,687
+687, Rebecca Hall ,688
+688, Samantha Mahurin ,689
+689, David Bowie ,690
+690, Daniel Davis ,691
+691, Jim Piddock ,692
+692, Christopher Neame ,693
+693, Mark Ryan ,694
+694, Roger Rees ,695
+695, Jamie Harris ,696
+696, Monty Stuart ,697
+697, Ron Perkins ,698
+698, Ricky Jay ,699
+699,Kevin Spacey ,700
+700, Gabriel Byrne ,701
+701, Chazz Palminteri ,702
+702, Stephen Baldwin ,703
+703, Benicio Del Toro ,704
+704, Kevin Pollak ,705
+705, Suzy Amis ,706
+706, Giancarlo Esposito ,707
+707, Dan Hedaya ,708
+708, Paul Bartel ,709
+709, Carl Bressler ,710
+710, Phillipe Simon ,711
+711, Jack Shearer ,712
+712, Christine Estabrook ,713
+713, Clark Gregg ,714
+714, Morgan Hunter ,715
+715, Ken Daly ,716
+716,Tsutomu Tatsumi ,717
+717, Ayano Shiraishi ,718
+718, Akemi Yamaguchi ,719
+719, Yoshiko Shinohara ,720
+720, Kôzô Hashida ,721
+721, Masayo Sakai ,722
+722, Kazumi Nozaki ,723
+723, Yoshio Matsuoka ,724
+724, Masahiro Kanetake ,725
+725, Kiyoshi Yanagawa ,726
+726, Hajime Maki ,727
+727, Atsuo Omote ,728
+728, Teruhisa Harita ,729
+729, Hiroshi Tanaka ,730
+730, Michio Denpô ,731
+731, Shirô Tamaki ,732
+732, Tadashi Nakamura ,733
+733, Nurse(voice),734
+734,Tatsuya Nakadai as Hanshiro Tsugumo as Akira Ishihama as Motome Chijiiwa as Shima Iwashita as Miho Tsugumo as Tetsurô Tanba as Hikokuro Omodaka as Masao Mishima as Tango Inaba as Ichirô Nakatani as Hayato Yazaki as Kei Satô as Masakazu as Yoshio Inaba as Jinai Chijiiwa as Hisashi Igawa as Retainer as Tôru Takeuchi as Retainer as Yoshirô Aoki as Umenosuke Kawabe as Tatsuo Matsumura as Seibei as Akiji Kobayashi as Ii Clan Retainer as Kôichi Hayashi as Ryûtarô Gomi as General as Jô Azumi as Ichiro Shimmen as Nakajirô Tomita as Shichisaburô Amatsu as Retainer,735
+735,Humphrey Bogart ,736
+736, Ingrid Bergman ,737
+737, Paul Henreid ,738
+738, Claude Rains ,739
+739, Conrad Veidt ,740
+740, Sydney Greenstreet ,741
+741, Peter Lorre ,742
+742, S.Z. Sakall ,743
+743, Madeleine Lebeau ,744
+744, Dooley Wilson ,745
+745, Joy Page ,746
+746, John Qualen ,747
+747, Leonid Kinskey ,748
+748, Curt Bois ,749
+749, Abdullah Abbas ,750
+750, Enrique Acosta ,751
+751, Ed Agresti ,752
+752, Arnet Amos ,753
+753,Cillian Murphy ,754
+754, Emily Blunt ,755
+755, Robert Downey Jr. ,756
+756, Alden Ehrenreich ,757
+757, Scott Grimes ,758
+758, Jason Clarke ,759
+759, Kurt Koehler ,760
+760, Tony Goldwyn ,761
+761, John Gowans ,762
+762, Macon Blair ,763
+763, James D'Arcy ,764
+764, Kenneth Branagh ,765
+765, Harry Groener ,766
+766, Gregory Jbara ,767
+767, Ted King ,768
+768, Tim DeKay ,769
+769, Steven Houska ,770
+770,François Cluzet ,771
+771, Omar Sy ,772
+772, Anne Le Ny ,773
+773, Audrey Fleurot ,774
+774, Joséphine de Meaux ,775
+775, Clotilde Mollet ,776
+776, Alba Gaïa Bellugi ,777
+777, Cyril Mendy ,778
+778, Salimata Kamate ,779
+779, Absa Diatou Toure ,780
+780, Grégoire Oestermann ,781
+781, Dominique Daguier ,782
+782, François Caron ,783
+783, Christian Ameri ,784
+784, Thomas Solivérès ,785
+785, Dorothée Brière ,786
+786, Marie-Laure Descoureaux ,787
+787, Émilie Caen ,788
+788,Charles Chaplin ,789
+789, Paulette Goddard ,790
+790, Henry Bergman ,791
+791, Tiny Sandford ,792
+792, Chester Conklin ,793
+793, Hank Mann ,794
+794, Stanley Blystone ,795
+795, Al Ernest Garcia ,796
+796, Richard Alexander ,797
+797, Cecil Reynolds ,798
+798, Mira McKinney ,799
+799, Murdock MacQuarrie ,800
+800, Wilfred Lucas ,801
+801, Edward LeSaint ,802
+802, Fred Malatesta ,803
+803, Sammy Stein ,804
+804, Juana Sutton ,805
+805, Ted Oliver ,806
+806,Philippe Noiret ,807
+807, Enzo Cannavale ,808
+808, Antonella Attili ,809
+809, Isa Danieli ,810
+810, Leo Gullotta ,811
+811, Marco Leonardi ,812
+812, Pupella Maggio ,813
+813, Agnese Nano ,814
+814, Salvatore Cascio ,815
+815, Tano Cimarosa ,816
+816, Nicola Di Pinto ,817
+817, Roberta Lena ,818
+818, Nino Terzo ,819
+819, Jacques Perrin ,820
+820, Nellina Laganà ,821
+821, Mariella Lo Giudice,822
+822, Charles Bronson ,823
+823, Claudia Cardinale ,824
+824, Jason Robards ,825
+825, Gabriele Ferzetti ,826
+826, Paolo Stoppa ,827
+827, Woody Strode ,828
+828, Jack Elam ,829
+829, Keenan Wynn ,830
+830, Frank Wolff ,831
+831, Lionel Stander ,832
+832, Livio Andronico ,833
+833, Salvatore Basile ,834
+834, Aldo Berti ,835
+835, Joseph Bradley ,836
+836, Frank Braña ,837
+837, Marilù Carteny ,838
+838, Saturno Cerra ,839
+839, Grace Kelly ,840
+840, Wendell Corey ,841
+841, Thelma Ritter ,842
+842, Raymond Burr ,843
+843, Judith Evelyn ,844
+844, Ross Bagdasarian ,845
+845, Georgine Darcy ,846
+846, Sara Berner ,847
+847, Frank Cady ,848
+848, Jesslyn Fax ,849
+849, Rand Harper ,850
+850, Irene Winston ,851
+851, Havis Davenport ,852
+852, Jerry Antes ,853
+853, Barbara Bailey ,854
+854, Benny Bartlett ,855
+855, Nick Borgani ,856
+856,Sigourney Weaver ,857
+857, Tom Skerritt ,858
+858, John Hurt ,859
+859, Veronica Cartwright ,860
+860, Yaphet Kotto ,861
+861, Bolaji Badejo ,862
+862, Helen Horton ,863
+863, Eddie Powell ,864
+864,Charles Chaplin as A Tramp(as Charlie Chaplin) as Virginia Cherrill as A Blind Girl as Florence Lee as The Blind Girl's Grandmother as Harry Myers as An Eccentric Millionaire as Al Ernest Garcia as The Millionaire's Butler(as Allan Garcia) as Hank Mann as A Prizefighter as Johnny Aber as Newsboy(uncredited) as Jack Alexander as Boxing Match Spectator(uncredited) as T.S. Alexander as Doctor(uncredited) as Victor Alexander as Superstitious Boxer(uncredited) as Albert Austin as Street Sweeper(uncredited)… as Harry Ayers as Cop(uncredited) as Eddie Baker as Boxing Fight Referee(uncredited) as Henry Bergman as Mayor(uncredited)… as Edward Biby as Nightclub Patron(uncredited) as Betty Blair as Woman at Center of Table in Restaurant as Buster Brodie as Bald Party Guest(uncredited) as Jeanne Carpenter as Diner in Restaurant(uncredited),865
+865,Martin Sheen ,866
+866, Marlon Brando ,867
+867, Frederic Forrest ,868
+868, Sam Bottoms ,869
+869, Albert Hall ,870
+870, Dennis Hopper ,871
+871, Jerry Ziesmer ,872
+872, Civilian ,873
+873, Lt. Richard M. Colby ,874
+874, MP Sergeant #1 ,875
+875, Kilgore's Gunner ,876
+876, Mike from San Diego ,877
+877, Injured Soldier ,878
+878, Supply Sergeant ,879
+879, Playmate of the Year,880
+880,Guy Pearce ,881
+881, Mark Boone Junior ,882
+882, Russ Fega ,883
+883, Jorja Fox ,884
+884, Stephen Tobolowsky ,885
+885, Harriet Sansom Harris ,886
+886, Thomas Lennon ,887
+887, Callum Keith Rennie ,888
+888, Kimberly Campbell ,889
+889, Marianne Muellerleile ,890
+890, Larry Holden ,891
+891, Stephanie Searson ,892
+892, Buzz Visconti ,893
+893,Jamie Foxx ,894
+894, Christoph Waltz ,895
+895, Leonardo DiCaprio ,896
+896, Kerry Washington ,897
+897, Walton Goggins ,898
+898, Dennis Christopher ,899
+899, James Remar ,900
+900, David Steen ,901
+901, Dana Gourrier ,902
+902, Nichole Galicia ,903
+903, Laura Cayouette ,904
+904, Ato Essandoh ,905
+905, Sammi Rotibi ,906
+906, Clay Donahue Fontenot ,907
+907, Escalante Lundy ,908
+908, Miriam F. Glover ,909
+909, Don Johnson ,910
+910,Harrison Ford ,911
+911, Karen Allen ,912
+912, Paul Freeman ,913
+913, John Rhys-Davies ,914
+914, Ronald Lacey ,915
+915, Denholm Elliott ,916
+916, Alfred Molina ,917
+917, Wolf Kahler ,918
+918, Anthony Higgins ,919
+919, Vic Tablian ,920
+920, Don Fellows ,921
+921, William Hootkins ,922
+922, Bill Reimbold ,923
+923, Fred Sorenson ,924
+924, Patrick Durkin ,925
+925, Matthew Scurfield ,926
+926, Malcolm Weaver ,927
+927, Sonny Caldinez ,928
+928,Ben Burtt ,929
+929, Elissa Knight ,930
+930, Jeff Garlin ,931
+931, Fred Willard ,932
+932, MacInTalk ,933
+933, John Ratzenberger ,934
+934, Kathy Najimy ,935
+935, Sigourney Weaver ,936
+936, Brian Cummings ,937
+937, Karleen Griffin ,938
+938, Kim Kopf ,939
+939, Niki McElroy ,940
+940, Garrett Palmer ,941
+941, Jessica Skelton ,942
+942, Kai Steel Smith ,943
+943, Michael Toy ,944
+944,Ulrich Mühe as Hauptmann Gerd Wiesler as Martina Gedeck as Christa-Maria Sieland as Sebastian Koch as Georg Dreyman as Ulrich Tukur as Oberstleutnant Anton Grubitz as Thomas Thieme as Minister Bruno Hempf as Hans-Uwe Bauer as Paul Hauser as Volkmar Kleinert as Albert Jerska as Matthias Brenner as Karl Wallner as Charly Hübner as Udo as Herbert Knaup as Gregor Hessenstein as Bastian Trost as Häftling 227 as Marie Gruber as Frau Meineke as Volker Zack as Schriftexperte(as Zack Volker Michalowski) as Werner Daehn as Einsatzleiter in Uniform as Martin Brambach as Einsatzleiter Meyer as Hubertus Hartmann as Egon Schwalber as Thomas Arnold as Nowack as Hinnerk Schönemann as Unterleutnant Axel Stigler,945
+945,William Holden ,946
+946, Gloria Swanson ,947
+947, Erich von Stroheim ,948
+948, Nancy Olson ,949
+949, Fred Clark ,950
+950, Lloyd Gough ,951
+951, Jack Webb ,952
+952, Franklyn Farnum ,953
+953, Larry J. Blake ,954
+954, Charles Dayton ,955
+955, Cecil B. DeMille ,956
+956, Hedda Hopper ,957
+957, Buster Keaton ,958
+958, Anna Q. Nilsson ,959
+959, Ray Evans ,960
+960, Jay Livingston ,961
+961, Fred Aldrich ,962
+962,Kirk Douglas ,963
+963, Ralph Meeker ,964
+964, Adolphe Menjou ,965
+965, George Macready ,966
+966, Wayne Morris ,967
+967, Richard Anderson ,968
+968, Joe Turkel ,969
+969, Christiane Kubrick ,970
+970, Jerry Hausner ,971
+971, Peter Capell ,972
+972, Emile Meyer ,973
+973, Bert Freed ,974
+974, Kem Dibbs ,975
+975, Timothy Carey ,976
+976, Fred Bell ,977
+977, John Stein ,978
+978, Harold Benedict ,979
+979, Leon Briggs ,980
+980,Robert Downey Jr. ,981
+981, Chris Hemsworth ,982
+982, Mark Ruffalo ,983
+983, Chris Evans ,984
+984, Don Cheadle ,985
+985, Benedict Cumberbatch ,986
+986, Tom Holland ,987
+987, Chadwick Boseman ,988
+988, Zoe Saldana ,989
+989, Karen Gillan ,990
+990, Tom Hiddleston ,991
+991, Paul Bettany ,992
+992, Elizabeth Olsen ,993
+993, Anthony Mackie ,994
+994, Sebastian Stan ,995
+995, Idris Elba ,996
+996, Danai Gurira ,997
+997, Shelley Duvall ,998
+998, Danny Lloyd ,999
+999, Barry Nelson ,1000
+1000, Philip Stone ,1001
+1001, Anne Jackson ,1002
+1002, Tony Burton ,1003
+1003, Lia Beldam ,1004
+1004, Billie Gibson ,1005
+1005, Barry Dennen ,1006
+1006, David Baxt ,1007
+1007, Manning Redwood ,1008
+1008, Lisa Burns ,1009
+1009, Louise Burns ,1010
+1010, Robin Pappas ,1011
+1011, Alison Coleridge ,1012
+1012, Jack Oakie ,1013
+1013, Reginald Gardiner ,1014
+1014, Henry Daniell ,1015
+1015, Billy Gilbert ,1016
+1016, Grace Hayle ,1017
+1017, Carter DeHaven ,1018
+1018, Maurice Moscovitch ,1019
+1019, Emma Dunn ,1020
+1020, Bernard Gorcey ,1021
+1021, Paul Weigel ,1022
+1022, Esther Michelson ,1023
+1023, Florence Wright ,1024
+1024, Eddie Gribbon ,1025
+1025, Rudolph Anders ,1026
+1026,Tyrone Power ,1027
+1027, Marlene Dietrich ,1028
+1028, Charles Laughton ,1029
+1029, Elsa Lanchester ,1030
+1030, John Williams ,1031
+1031, Ian Wolfe ,1032
+1032, Torin Thatcher ,1033
+1033, Norma Varden ,1034
+1034, Una O'Connor ,1035
+1035, Francis Compton ,1036
+1036, Philip Tonge ,1037
+1037, Ruta Lee ,1038
+1038, Patrick Aherne ,1039
+1039, Don Ames ,1040
+1040, Eddie Baker ,1041
+1041, Benjie Bancroft ,1042
+1042, Lily Tomlin ,1043
+1043, Zoë Kravitz ,1044
+1044, John Mulaney ,1045
+1045, Kimiko Glenn ,1046
+1046, Nicolas Cage ,1047
+1047, Kathryn Hahn ,1048
+1048, Liev Schreiber ,1049
+1049, Chris Pine ,1050
+1050, Natalie Morales ,1051
+1051, Edwin R. Habacon ,1052
+1052, Michael Biehn ,1053
+1053, Carrie Henn ,1054
+1054, Lance Henriksen ,1055
+1055, Bill Paxton ,1056
+1056, William Hope ,1057
+1057, Al Matthews ,1058
+1058, Ricco Ross ,1059
+1059, Colette Hiller ,1060
+1060, Daniel Kash ,1061
+1061, Cynthia Dale Scott ,1062
+1062, Tip Tipping ,1063
+1063, Trevor Steedman ,1064
+1064, Paul Maxwell ,1065
+1065, Valerie Colgan ,1066
+1066, Diane Kruger ,1067
+1067, Eli Roth ,1068
+1068, Mélanie Laurent ,1069
+1069, Michael Fassbender ,1070
+1070, Daniel Brühl ,1071
+1071, Til Schweiger ,1072
+1072, Gedeon Burkhard ,1073
+1073, Jacky Ido ,1074
+1074, B.J. Novak ,1075
+1075, Omar Doom ,1076
+1076, August Diehl ,1077
+1077, Denis Ménochet ,1078
+1078, Sylvester Groth ,1079
+1079, Martin Wuttke ,1080
+1080, Mike Myers ,1081
+1081, Julie Dreyfus ,1082
+1082, Matthew Modine ,1083
+1083, Alon Aboutboul ,1084
+1084, Ben Mendelsohn ,1085
+1085, Burn Gorman ,1086
+1086, Daniel Sunjata ,1087
+1087, Aidan Gillen ,1088
+1088, Sam Kennard ,1089
+1089, Aliash Tepina ,1090
+1090, Brett Cullen ,1091
+1091, Annette Bening ,1092
+1092, Thora Birch ,1093
+1093, Mena Suvari ,1094
+1094, Peter Gallagher ,1095
+1095, Allison Janney ,1096
+1096, Chris Cooper ,1097
+1097, Scott Bakula ,1098
+1098, Sam Robards ,1099
+1099, Barry Del Sherman ,1100
+1100, Ara Celi ,1101
+1101, John Cho ,1102
+1102, Fort Atkinson ,1103
+1103, Sue Casey ,1104
+1104, Kent Faulcon ,1105
+1105, Brenda Wehle ,1106
+1106, Lisa Cloud ,1107
+1107,Peter Sellers ,1108
+1108, George C. Scott ,1109
+1109, Slim Pickens ,1110
+1110, Peter Bull ,1111
+1111, Tracy Reed ,1112
+1112, Jack Creley ,1113
+1113, Frank Berry ,1114
+1114, Robert O'Neil ,1115
+1115, Glenn Beck ,1116
+1116, Roy Stephens ,1117
+1117, Shane Rimmer ,1118
+1118, Hal Galili ,1119
+1119, Paul Tamarin ,1120
+1120, Laurence Herder ,1121
+1121, Gordon Tanner ,1122
+1122,Choi Min-sik ,1123
+1123, Yoo Ji-tae ,1124
+1124, Kang Hye-jeong ,1125
+1125, Kim Byeong-Ok ,1126
+1126, Dae-han Ji ,1127
+1127, Dal-su Oh ,1128
+1128, Seung-shin Lee ,1129
+1129, Jin-Seo Yoon ,1130
+1130, Tae-kyung Oh ,1131
+1131, Yoo Yeon-Seok ,1132
+1132, Il-han Oo ,1133
+1133, Young-hee Lee ,1134
+1134, Young-ae Kim ,1135
+1135, Mi Mi Lee ,1136
+1136, Jae-Duk Han ,1137
+1137, Jung Ae Kwak ,1138
+1138, San Kim ,1139
+1139, Chae-soo Jang ,1140
+1140,Anthony Gonzalez ,1141
+1141, Gael García Bernal ,1142
+1142, Benjamin Bratt ,1143
+1143, Alanna Ubach ,1144
+1144, Renee Victor ,1145
+1145, Jaime Camil ,1146
+1146, Alfonso Arau ,1147
+1147, Herbert Siguenza ,1148
+1148, Gabriel Iglesias ,1149
+1149, Lombardo Boyar ,1150
+1150, Ana Ofelia Murguía ,1151
+1151, Natalia Cordova-Buckley ,1152
+1152, Selene Luna ,1153
+1153, Edward James Olmos ,1154
+1154, Sofía Espinosa ,1155
+1155, Carla Medina ,1156
+1156, Dyana Ortelli ,1157
+1157, Luis Valdez ,1158
+1158,F. Murray Abraham ,1159
+1159, Tom Hulce ,1160
+1160, Elizabeth Berridge ,1161
+1161, Roy Dotrice ,1162
+1162, Simon Callow ,1163
+1163, Christine Ebersole ,1164
+1164, Jeffrey Jones ,1165
+1165, Charles Kay ,1166
+1166, Kenneth McMillan ,1167
+1167, Lisbeth Bartlett ,1168
+1168, Barbara Bryne ,1169
+1169, Martin Cavina ,1170
+1170, Roderick Cook ,1171
+1171, Milan Demjanenko ,1172
+1172, Peter DiGesu ,1173
+1173, Richard Frank ,1174
+1174, Patrick Hines ,1175
+1175, Tim Allen ,1176
+1176, Don Rickles ,1177
+1177, Jim Varney ,1178
+1178, Wallace Shawn ,1179
+1179, Annie Potts ,1180
+1180, John Morris ,1181
+1181, Erik von Detten ,1182
+1182, Laurie Metcalf ,1183
+1183, Sarah Rayne ,1184
+1184, Penn Jillette ,1185
+1185, Jack Angel ,1186
+1186, Spencer Aste ,1187
+1187, Greg Berg ,1188
+1188, Lisa Bradley ,1189
+1189, Kendall Cunningham ,1190
+1190,Mel Gibson ,1191
+1191, Sophie Marceau ,1192
+1192, Patrick McGoohan ,1193
+1193, Angus Macfadyen ,1194
+1194, James Robinson ,1195
+1195, Sean Lawlor ,1196
+1196, Sandy Nelson ,1197
+1197, James Cosmo ,1198
+1198, Sean McGinley ,1199
+1199, Alan Tall ,1200
+1200, Andrew Weir ,1201
+1201, Gerda Stevenson ,1202
+1202, Ralph Riach ,1203
+1203, Mhairi Calvey ,1204
+1204, Brian Cox ,1205
+1205, Peter Hanly ,1206
+1206, Stephen Billington ,1207
+1207, Barry McGovern ,1208
+1208,Jürgen Prochnow ,1209
+1209, Herbert Grönemeyer ,1210
+1210, Klaus Wennemann ,1211
+1211, Hubertus Bengsch ,1212
+1212, Martin Semmelrogge ,1213
+1213, Bernd Tauber ,1214
+1214, Erwin Leder ,1215
+1215, Martin May ,1216
+1216, Heinz Hoenig ,1217
+1217, Uwe Ochsenknecht ,1218
+1218, Claude-Oliver Rudolph ,1219
+1219, Jan Fedder ,1220
+1220, Ralf Richter ,1221
+1221, Joachim Bernhard ,1222
+1222, Oliver Stritzel ,1223
+1223, Konrad Becker ,1224
+1224, Lutz Schnell ,1225
+1225, Martin Hemme ,1226
+1226, Jeremy Renner ,1227
+1227, Paul Rudd ,1228
+1228, Brie Larson ,1229
+1229, Evangeline Lilly ,1230
+1230, Tessa Thompson ,1231
+1231, Rene Russo ,1232
+1232,Joaquin Phoenix ,1233
+1233, Zazie Beetz ,1234
+1234, Frances Conroy ,1235
+1235, Bill Camp ,1236
+1236, Glenn Fleshler ,1237
+1237, Leigh Gill ,1238
+1238, Josh Pais ,1239
+1239, Rocco Luna ,1240
+1240, Marc Maron ,1241
+1241, Sondra James ,1242
+1242, Murphy Guyer ,1243
+1243, Douglas Hodge ,1244
+1244, Dante Pereira-Olson ,1245
+1245, Carrie Louise Putrello ,1246
+1246, Sharon Washington ,1247
+1247,Yôji Matsuda ,1248
+1248, Yuriko Ishida ,1249
+1249, Yûko Tanaka ,1250
+1250, Billy Crudup ,1251
+1251, Billy Bob Thornton ,1252
+1252, Minnie Driver ,1253
+1253, John DiMaggio ,1254
+1254, Claire Danes ,1255
+1255, John DeMita ,1256
+1256, Jada Pinkett Smith ,1257
+1257, Gillian Anderson ,1258
+1258, Keith David ,1259
+1259, Corey Burton ,1260
+1260, Tara Strong ,1261
+1261, Julia Fletcher ,1262
+1262, Debi Derryberry ,1263
+1263, Alex Fernandez ,1264
+1264, Jack Fletcher ,1265
+1265,Robin Williams ,1266
+1266, Ben Affleck ,1267
+1267, Stellan Skarsgård ,1268
+1268, John Mighton ,1269
+1269, Rachel Majorowski ,1270
+1270, Colleen McCauley ,1271
+1271, Cole Hauser ,1272
+1272, Matt Mercier ,1273
+1273, Ralph St. George ,1274
+1274, Rob Lynds ,1275
+1275, Dan Washington ,1276
+1276, Alison Folland ,1277
+1277, Derrick Bridgeman ,1278
+1278, Vik Sahay ,1279
+1279, Shannon Egleson ,1280
+1280, Rob Lyons ,1281
+1281,Ryunosuke Kamiki ,1282
+1282, Mone Kamishiraishi ,1283
+1283, Ryo Narita ,1284
+1284, Aoi Yûki ,1285
+1285, Nobunaga Shimazaki ,1286
+1286, Kaito Ishikawa ,1287
+1287, Kanon Tani ,1288
+1288, Masaki Terasoma ,1289
+1289, Sayaka Ôhara ,1290
+1290, Kazuhiko Inoue ,1291
+1291, Chafûrin ,1292
+1292, Kana Hanazawa ,1293
+1293, Yuka Terasaki ,1294
+1294, Yôhei Namekawa ,1295
+1295, Shin'ya Hamazoe ,1296
+1296, Kanami Satô,1297
+1297, James Woods ,1298
+1298, Elizabeth McGovern ,1299
+1299, Treat Williams ,1300
+1300, Tuesday Weld ,1301
+1301, Burt Young ,1302
+1302, William Forsythe ,1303
+1303, James Hayden ,1304
+1304, Darlanne Fluegel ,1305
+1305, Larry Rapp ,1306
+1306, Dutch Miller ,1307
+1307, Robert Harper ,1308
+1308, Gerard Murphy ,1309
+1309, Amy Ryder ,1310
+1310, Olga Karlatos ,1311
+1311,Aamir Khan ,1312
+1312, Madhavan ,1313
+1313, Mona Singh ,1314
+1314, Sharman Joshi ,1315
+1315, Kareena Kapoor ,1316
+1316, Boman Irani ,1317
+1317, Omi Vaidya ,1318
+1318, Jaaved Jaaferi ,1319
+1319, Parikshit Sahni ,1320
+1320, Olivier Lafont ,1321
+1321, Rahul Kumar ,1322
+1322, Amardeep Jha ,1323
+1323, Farida Dadi ,1324
+1324, Mukund Bhatt ,1325
+1325, Chaitali Bose ,1326
+1326, Jayant Kripalani ,1327
+1327, Arun Bali ,1328
+1328, Shoaib Ahmed ,1329
+1329, Yutaka Sada ,1330
+1330, Tatsuya Nakadai ,1331
+1331, Kyôko Kagawa ,1332
+1332, Tatsuya Mihashi ,1333
+1333, Kenjirô Ishiyama ,1334
+1334, Takeshi Katô ,1335
+1335, Jun Tazaki ,1336
+1336, National Shoes Publicity Director ,1337
+1337, Ishimaru,1338
+1338, Yûnosuke Itô ,1339
+1339, Tsutomu Yamazaki ,1340
+1340, Masao Shimizu ,1341
+1341, Masahiko Shimazu ,1342
+1342, Toshio Egi ,1343
+1343,Gene Kelly ,1344
+1344, Donald O'Connor ,1345
+1345, Debbie Reynolds ,1346
+1346, Jean Hagen ,1347
+1347, Millard Mitchell ,1348
+1348, Cyd Charisse ,1349
+1349, Douglas Fowley ,1350
+1350, Rita Moreno ,1351
+1351, Dawn Addams ,1352
+1352, John Albright ,1353
+1353, Betty Allen ,1354
+1354, Sue Allen ,1355
+1355, John Angelo ,1356
+1356, Marie Ardell ,1357
+1357, Bette Arlen ,1358
+1358, David Bair ,1359
+1359, Jimmy Bates ,1360
+1360, Mary Bayless ,1361
+1361,Zain Al Rafeea ,1362
+1362, Yordanos Shiferaw ,1363
+1363, Boluwatife Treasure Bankole ,1364
+1364, Kawsar Al Haddad ,1365
+1365, Fadi Yousef ,1366
+1366, Cedra Izzam ,1367
+1367, the Sister ,1368
+1368, Aspro ,1369
+1369, The Judge ,1370
+1370, Salah ,1371
+1371, Street Kid ,1372
+1372, Notary ,1373
+1373, Kid ,1374
+1374, Employer Snack Falafel ,1375
+1375, Zain's Sister ,1376
+1376, Prisoner Detention Center ,1377
+1377, Street Kid,1378
+1378,Ellen Burstyn ,1379
+1379, Jared Leto ,1380
+1380, Jennifer Connelly ,1381
+1381, Marlon Wayans ,1382
+1382, Christopher McDonald ,1383
+1383, Louise Lasser ,1384
+1384, Marcia Jean Kurtz ,1385
+1385, Janet Sarno ,1386
+1386, Joanne Gordon ,1387
+1387, Charlotte Aronofsky ,1388
+1388, Mark Margolis ,1389
+1389, Michael Kaycheck ,1390
+1390, Jack O'Connell ,1391
+1391, Chas Mastin ,1392
+1392, Ajay Naidu ,1393
+1393, Sean Gullette ,1394
+1394, Samia Shoaib ,1395
+1395, Joan Cusack ,1396
+1396, Ned Beatty ,1397
+1397, Michael Keaton ,1398
+1398, Estelle Harris ,1399
+1399, Jodi Benson ,1400
+1400, Emily Ricks Hahn ,1401
+1401, Blake Clark ,1402
+1402, Teddy Newton ,1403
+1403, Bud Luckey ,1404
+1404, Bea Miller ,1405
+1405, Javier Fernández-Peña ,1406
+1406,Aleksey Kravchenko ,1407
+1407, Olga Mironova ,1408
+1408, Liubomiras Laucevicius ,1409
+1409, Vladas Bagdonas ,1410
+1410, Jüri Lumiste ,1411
+1411, Viktors Lorencs ,1412
+1412, Kazimir Rabetsky ,1413
+1413, Evgeniy Tilicheev ,1414
+1414, G. Velts ,1415
+1415, V. Vasilyev ,1416
+1416, Chief of Staff of the Partisan Detachment ,1417
+1417, Little Policeman ,1418
+1418, Mother ,1419
+1419, Adolf Hitler ,1420
+1420, Valery Kravchenko ,1421
+1421, Evgeniy Kryzhanovskiy ,1422
+1422, N. Lisichenok,1423
+1423, Sebastian Shaw ,1424
+1424, Ian McDiarmid ,1425
+1425, Michael Pennington ,1426
+1426, Kenneth Colley ,1427
+1427, Michael Carter ,1428
+1428, Tim Rose ,1429
+1429,Jim Carrey ,1430
+1430, Kate Winslet ,1431
+1431, Tom Wilkinson ,1432
+1432, Gerry Robert Byrne ,1433
+1433, Elijah Wood ,1434
+1434, Thomas Jay Ryan ,1435
+1435, Jane Adams ,1436
+1436, David Cross ,1437
+1437, Kirsten Dunst ,1438
+1438, Ryan Whitney ,1439
+1439, Debbon Ayer ,1440
+1440, Amir Ali Said ,1441
+1441, Brian Price ,1442
+1442, Paulie Litt ,1443
+1443, Josh Flitter ,1444
+1444, Lola Daehler ,1445
+1445, Deirdre O'Connell ,1446
+1446,Keir Dullea ,1447
+1447, Gary Lockwood ,1448
+1448, William Sylvester ,1449
+1449, Daniel Richter ,1450
+1450, Leonard Rossiter ,1451
+1451, Margaret Tyzack ,1452
+1452, Robert Beatty ,1453
+1453, Sean Sullivan ,1454
+1454, Douglas Rain ,1455
+1455, Frank Miller ,1456
+1456, Bill Weston ,1457
+1457, Ed Bishop ,1458
+1458, Alan Gifford ,1459
+1459, Ann Gillis ,1460
+1460, Edwina Carroll ,1461
+1461, Penny Brahms ,1462
+1462, Heather Downham ,1463
+1463,Mads Mikkelsen ,1464
+1464, Thomas Bo Larsen ,1465
+1465, Annika Wedderkopp ,1466
+1466, Lasse Fogelstrøm ,1467
+1467, Susse Wold ,1468
+1468, Anne Louise Hassing ,1469
+1469, Lars Ranthe ,1470
+1470, Alexandra Rapaport ,1471
+1471, Sebastian Bull ,1472
+1472, Steen Ordell Guldbrand Jensen ,1473
+1473, Daniel Engstrup ,1474
+1474, Troels Thorsen ,1475
+1475, Søren Rønholt ,1476
+1476, Hana Shuan ,1477
+1477, Jytte Kvinesdal ,1478
+1478, Josefine Gråbøl ,1479
+1479, Bjarne Henriksen ,1480
+1480, Nicolai Dahl Hamilton ,1481
+1481,Harvey Keitel ,1482
+1482, Michael Madsen ,1483
+1483, Chris Penn ,1484
+1484, Steve Buscemi ,1485
+1485, Lawrence Tierney ,1486
+1486, Randy Brooks ,1487
+1487, Kirk Baltz ,1488
+1488, Edward Bunker ,1489
+1489, Quentin Tarantino ,1490
+1490, Rich Turner ,1491
+1491, Tony Cosmo ,1492
+1492, Stevo Polyi ,1493
+1493, Michael Sottile ,1494
+1494, Robert Ruth ,1495
+1495, Lawrence Bender ,1496
+1496, Linda Kaye ,1497
+1497,Takashi Shimura ,1498
+1498, Nobuo Kaneko ,1499
+1499, Kanji's son ,1500
+1500, Kimura ,1501
+1501, Sakai ,1502
+1502, Noguchi ,1503
+1503, Toyo Odagiri,1504
+1504, Minosuke Yamada ,1505
+1505, Makoto Kobori ,1506
+1506, Kanji's Brother ,1507
+1507, Deputy Mayor ,1508
+1508, Patient ,1509
+1509, Intern ,1510
+1510, Doctor ,1511
+1511, Novelist ,1512
+1512, Tatsu Watanabe,1513
+1513, Eiko Miyoshi ,1514
+1514, Noriko Honma ,1515
+1515,Peter O'Toole ,1516
+1516, Anthony Quinn ,1517
+1517, Jack Hawkins ,1518
+1518, Omar Sharif ,1519
+1519, José Ferrer ,1520
+1520, Anthony Quayle ,1521
+1521, Arthur Kennedy ,1522
+1522, Donald Wolfit ,1523
+1523, I.S. Johar ,1524
+1524, Gamil Ratib ,1525
+1525, Michel Ray ,1526
+1526, John Dimech ,1527
+1527, Zia Mohyeddin ,1528
+1528, Howard Marion-Crawford ,1529
+1529, Jack Gwillim ,1530
+1530, Hugh Miller ,1531
+1531,Orson Welles ,1532
+1532, Joseph Cotten ,1533
+1533, Dorothy Comingore ,1534
+1534, Agnes Moorehead ,1535
+1535, Ruth Warrick ,1536
+1536, Ray Collins ,1537
+1537, Erskine Sanford ,1538
+1538, Everett Sloane ,1539
+1539, William Alland ,1540
+1540, Paul Stewart ,1541
+1541, George Coulouris ,1542
+1542, Fortunio Bonanova ,1543
+1543, Gus Schilling ,1544
+1544, Philip Van Zandt ,1545
+1545, Georgia Backus ,1546
+1546, Harry Shannon ,1547
+1547, Sonny Bupp ,1548
+1548, Buddy Swan ,1549
+1549,Peter Lorre ,1550
+1550, Ellen Widmann ,1551
+1551, Inge Landgut ,1552
+1552, Otto Wernicke ,1553
+1553, Theodor Loos ,1554
+1554, Gustaf Gründgens ,1555
+1555, Friedrich Gnaß ,1556
+1556, Fritz Odemar ,1557
+1557, Paul Kemp ,1558
+1558, Theo Lingen ,1559
+1559, Rudolf Blümner ,1560
+1560, Georg John ,1561
+1561, Franz Stein ,1562
+1562, Ernst Stahl-Nachbaur ,1563
+1563, Gerhard Bienert ,1564
+1564, Karl Platen ,1565
+1565, Rosa Valetti ,1566
+1566, Hertha von Walther ,1567
+1567,Jack Lemmon ,1568
+1568, Shirley MacLaine ,1569
+1569, Fred MacMurray ,1570
+1570, Ray Walston ,1571
+1571, Jack Kruschen ,1572
+1572, David Lewis ,1573
+1573, Hope Holiday ,1574
+1574, Joan Shawlee ,1575
+1575, Naomi Stevens ,1576
+1576, Johnny Seven ,1577
+1577, Joyce Jameson ,1578
+1578, Willard Waterman ,1579
+1579, David White ,1580
+1580, Edie Adams ,1581
+1581, Dorothy Abbott ,1582
+1582, Bill Baldwin ,1583
+1583, Paul Bradley ,1584
+1584, Benny Burt ,1585
+1585,Cary Grant ,1586
+1586, Eva Marie Saint ,1587
+1587, James Mason ,1588
+1588, Jessie Royce Landis ,1589
+1589, Leo G. Carroll ,1590
+1590, Josephine Hutchinson ,1591
+1591, Philip Ober ,1592
+1592, Martin Landau ,1593
+1593, Adam Williams ,1594
+1594, Edward Platt ,1595
+1595, Robert Ellenstein ,1596
+1596, Les Tremayne ,1597
+1597, Philip Coolidge ,1598
+1598, Patrick McVey ,1599
+1599, Ken Lynch ,1600
+1600, Stanley Adams ,1601
+1601, John Alban ,1602
+1602, Kim Novak ,1603
+1603, Barbara Bel Geddes ,1604
+1604, Tom Helmore ,1605
+1605, Henry Jones ,1606
+1606, Raymond Bailey ,1607
+1607, Ellen Corby ,1608
+1608, Konstantin Shayne ,1609
+1609, Lee Patrick ,1610
+1610, David Ahdar ,1611
+1611, Isabel Analla ,1612
+1612, Jack Ano ,1613
+1613, Margaret Bacon ,1614
+1614, John Benson ,1615
+1615, Danny Borzage ,1616
+1616, Margaret Brayton ,1617
+1617, Paul Bryar ,1618
+1618, Boyd Cabeen ,1619
+1619,Fred MacMurray ,1620
+1620, Barbara Stanwyck ,1621
+1621, Edward G. Robinson ,1622
+1622, Byron Barr ,1623
+1623, Porter Hall ,1624
+1624, Jean Heather ,1625
+1625, Tom Powers ,1626
+1626, Richard Gaines ,1627
+1627, John Philliber ,1628
+1628, Lev Abramov ,1629
+1629, James Adamson ,1630
+1630, John Berry ,1631
+1631, Raymond Chandler ,1632
+1632, Edmund Cobb ,1633
+1633, Kernan Cripps ,1634
+1634, Betty Farrington ,1635
+1635, Bess Flowers ,1636
+1636,Audrey Tautou ,1637
+1637, Mathieu Kassovitz ,1638
+1638, Rufus ,1639
+1639, Lorella Cravotta ,1640
+1640, Serge Merlin ,1641
+1641, Jamel Debbouze ,1642
+1642, Claire Maurier ,1643
+1643, Isabelle Nanty ,1644
+1644, Dominique Pinon ,1645
+1645, Artus de Penguern ,1646
+1646, Yolande Moreau ,1647
+1647, Urbain Cancelier ,1648
+1648, Maurice Bénichou ,1649
+1649, Michel Robin ,1650
+1650, Andrée Damant ,1651
+1651, Claude Perron ,1652
+1652, Armelle ,1653
+1653, Michelle Pfeiffer ,1654
+1654, Steven Bauer ,1655
+1655, Mary Elizabeth Mastrantonio ,1656
+1656, Robert Loggia ,1657
+1657, Miriam Colon ,1658
+1658, F. Murray Abraham ,1659
+1659, Paul Shenar ,1660
+1660, Harris Yulin ,1661
+1661, Ángel Salazar ,1662
+1662, Arnaldo Santana ,1663
+1663, Pepe Serna ,1664
+1664, Michael P. Moran ,1665
+1665, Al Israel ,1666
+1666, Dennis Holahan ,1667
+1667, Michael Alldredge ,1668
+1668, Ted Beniades ,1669
+1669,Matthew Modine ,1670
+1670, Vincent D'Onofrio ,1671
+1671, Adam Baldwin ,1672
+1672, Dorian Harewood ,1673
+1673, Kevyn Major Howard ,1674
+1674, Arliss Howard ,1675
+1675, Ed O'Ross ,1676
+1676, John Terry ,1677
+1677, Kieron Jecchinis ,1678
+1678, Kirk Taylor ,1679
+1679, Tim Colceri ,1680
+1680, Jon Stafford ,1681
+1681, Bruce Boa ,1682
+1682, Ian Tyler ,1683
+1683, Sal Lopez ,1684
+1684, Gary Landon Mills ,1685
+1685, Papillon Soo ,1686
+1686,Malcolm McDowell ,1687
+1687, Patrick Magee ,1688
+1688, Michael Bates ,1689
+1689, Warren Clarke ,1690
+1690, John Clive ,1691
+1691, Adrienne Corri ,1692
+1692, Carl Duering ,1693
+1693, Paul Farrell ,1694
+1694, Clive Francis ,1695
+1695, Michael Gover ,1696
+1696, Miriam Karlin ,1697
+1697, James Marcus ,1698
+1698, Aubrey Morris ,1699
+1699, Godfrey Quigley ,1700
+1700, Sheila Raynor ,1701
+1701, Madge Ryan ,1702
+1702, John Savident ,1703
+1703, Anthony Sharp ,1704
+1704,Lubna Azabal ,1705
+1705, Mélissa Désormeaux-Poulin ,1706
+1706, Maxim Gaudette ,1707
+1707, Mustafa Kamel ,1708
+1708, Hussein Sami ,1709
+1709, Rémy Girard ,1710
+1710, Dominique Briand ,1711
+1711, Frédéric Paquet ,1712
+1712, Hamed Najem ,1713
+1713, Ahmad Massad ,1714
+1714, Bader Alami ,1715
+1715, Majida Hussein ,1716
+1716, Asriah Nijres ,1717
+1717, John Dunn-Hill ,1718
+1718, Nadia Essadiqi ,1719
+1719, Chaouki Charbel ,1720
+1720, Axel Garbi ,1721
+1721, Amine Benzenine ,1722
+1722, Val Kilmer ,1723
+1723, Jon Voight ,1724
+1724, Diane Venora ,1725
+1725, Amy Brenneman ,1726
+1726, Ashley Judd ,1727
+1727, Mykelti Williamson ,1728
+1728, Wes Studi ,1729
+1729, Dennis Haysbert ,1730
+1730, William Fichtner ,1731
+1731, Tom Noonan ,1732
+1732, Kevin Gage ,1733
+1733, Hank Azaria ,1734
+1734, Susan Traylor ,1735
+1735,Edward Asner ,1736
+1736, Jordan Nagai ,1737
+1737, Christopher Plummer ,1738
+1738, Bob Peterson ,1739
+1739, Delroy Lindo ,1740
+1740, Jerome Ranft ,1741
+1741, David Kaye ,1742
+1742, Elie Docter ,1743
+1743, Jeremy Leary ,1744
+1744, Mickie McGowan ,1745
+1745, Danny Mann ,1746
+1746, Jess Harnell ,1747
+1747, Josh Cooley ,1748
+1748, Pete Docter ,1749
+1749, Mark Andrews ,1750
+1750, Bob Bergen ,1751
+1751,Lin-Manuel Miranda ,1752
+1752, Phillipa Soo ,1753
+1753, Leslie Odom Jr. ,1754
+1754, Renée Elise Goldsberry ,1755
+1755, Daveed Diggs ,1756
+1756, Jonathan Groff ,1757
+1757, Chris Jackson ,1758
+1758, Jasmine Cephas Jones ,1759
+1759, Okieriete Onaodowan ,1760
+1760, Anthony Ramos ,1761
+1761, Carleigh Bettiol ,1762
+1762, Ariana DeBose ,1763
+1763, Hope Easterbrook ,1764
+1764, Sydney James Harcourt ,1765
+1765, Sasha Hutchings ,1766
+1766, Thayne Jasperson ,1767
+1767, Elizabeth Judd ,1768
+1768, Jon Rua ,1769
+1769,Gregory Peck ,1770
+1770, John Megna ,1771
+1771, Frank Overton ,1772
+1772, Rosemary Murphy ,1773
+1773, Ruth White ,1774
+1774, Brock Peters ,1775
+1775, Estelle Evans ,1776
+1776, Paul Fix ,1777
+1777, Collin Wilcox Paxton ,1778
+1778, James Anderson ,1779
+1779, Alice Ghostley ,1780
+1780, William Windom ,1781
+1781, Crahan Denton ,1782
+1782, Richard Hale ,1783
+1783, Mary Badham ,1784
+1784, Phillip Alford ,1785
+1785, R.L. Armstrong ,1786
+1786,Paul Newman ,1787
+1787, Robert Redford ,1788
+1788, Robert Shaw ,1789
+1789, Charles Durning ,1790
+1790, Eileen Brennan ,1791
+1791, Harold Gould ,1792
+1792, John Heffernan ,1793
+1793, Dana Elcar ,1794
+1794, Jack Kehoe ,1795
+1795, Dimitra Arliss ,1796
+1796, Robert Earl Jones ,1797
+1797, James Sloyan ,1798
+1798, Charles Dierkop ,1799
+1799, Lee Paul ,1800
+1800, Sally Kirkland ,1801
+1801, Avon Long ,1802
+1802, Arch Johnson ,1803
+1803,Payman Maadi ,1804
+1804, Leila Hatami ,1805
+1805, Sareh Bayat ,1806
+1806, Shahab Hosseini ,1807
+1807, Sarina Farhadi ,1808
+1808, Merila Zare'i ,1809
+1809, Ali-Asghar Shahbazi ,1810
+1810, Babak Karimi ,1811
+1811, Kimia Hosseini ,1812
+1812, Shirin Yazdanbakhsh ,1813
+1813, Sohibanoo Zolqadr ,1814
+1814, Mohammadhasan Asghari ,1815
+1815, Shirin Azimiyannezhad ,1816
+1816, Hamid Dadju ,1817
+1817, Mohammad Ebrahimian ,1818
+1818, Samad Farhang ,1819
+1819, Ali Fattahi ,1820
+1820, Nafise Ghodrati ,1821
+1821, Sean Connery ,1822
+1822, Alison Doody ,1823
+1823, Julian Glover ,1824
+1824, River Phoenix ,1825
+1825, Michael Byrne ,1826
+1826, Kevork Malikyan ,1827
+1827, Robert Eddison ,1828
+1828, Richard Young ,1829
+1829, Alexei Sayle ,1830
+1830, Alex Hyde-White ,1831
+1831, Isla Blair ,1832
+1832, Vernon Dobtcheff ,1833
+1833, J.J. Hardy ,1834
+1834, Bradley Gregg ,1835
+1835,Brigitte Helm ,1836
+1836, Alfred Abel ,1837
+1837, Gustav Fröhlich ,1838
+1838, Rudolf Klein-Rogge ,1839
+1839, Fritz Rasp ,1840
+1840, Erwin Biswanger ,1841
+1841, Heinrich George ,1842
+1842, Fritz Alberti ,1843
+1843, Grete Berger ,1844
+1844, Olly Boeheim ,1845
+1845, Max Dietze ,1846
+1846, Ellen Frey ,1847
+1847, Beatrice Garga ,1848
+1848, Heinrich Gotho ,1849
+1849, Dolly Grey ,1850
+1850, Anny Hintze ,1851
+1851, Gottfried Huppertz ,1852
+1852,Bruce Willis ,1853
+1853, Alan Rickman ,1854
+1854, Bonnie Bedelia ,1855
+1855, Reginald VelJohnson ,1856
+1856, Paul Gleason ,1857
+1857, De'voreaux White ,1858
+1858, William Atherton ,1859
+1859, Hart Bochner ,1860
+1860, James Shigeta ,1861
+1861, Alexander Godunov ,1862
+1862, Bruno Doyon ,1863
+1863, Andreas Wisniewski ,1864
+1864, Clarence Gilyard Jr. ,1865
+1865, Joseph Plewa ,1866
+1866, Lorenzo Caccialanza ,1867
+1867, Gérard Bonn ,1868
+1868, Dennis Hayden ,1869
+1869, Al Leong ,1870
+1870,Darsheel Safary ,1871
+1871, Aamir Khan ,1872
+1872, Tanay Chheda ,1873
+1873, Sachet Engineer ,1874
+1874, Tisca Chopra ,1875
+1875, Vipin Sharma ,1876
+1876, Lalitha Lajmi ,1877
+1877, Girija Oak ,1878
+1878, Ravi Khanvilkar ,1879
+1879, Pratima V. Kulkarni ,1880
+1880, Meghna Malik ,1881
+1881, Sonali Sachdev ,1882
+1882, Sanjay Dadhich ,1883
+1883, Rajgopal Iyer ,1884
+1884, Bugs Bhargava Krishna ,1885
+1885, Shankar Sachdev ,1886
+1886, M.K. Raina ,1887
+1887, Gurkirtan ,1888
+1888,Jason Statham ,1889
+1889, Stephen Graham ,1890
+1890, Vinnie Jones ,1891
+1891, Ade ,1892
+1892, William Beck ,1893
+1893, Andy Beckwith ,1894
+1894, Ewen Bremner ,1895
+1895, Jason Buckham ,1896
+1896, Mickey Cantwell ,1897
+1897, Nicola Collins ,1898
+1898, Teena Collins ,1899
+1899, Charles Cork ,1900
+1900, James Cunningham ,1901
+1901, Sorcha Cusack ,1902
+1902, Mickey Dee ,1903
+1903, Sam Douglas ,1904
+1904,Lamberto Maggiorani ,1905
+1905, Enzo Staiola ,1906
+1906, Lianella Carell ,1907
+1907, Elena Altieri ,1908
+1908, Gino Saltamerenda ,1909
+1909, Giulio Chiari ,1910
+1910, Vittorio Antonucci ,1911
+1911, Michele Sakara ,1912
+1912, Fausto Guerzoni ,1913
+1913, Emma Druetti ,1914
+1914, A Beggar ,1915
+1915, Citizen Who Protects the Real Thief ,1916
+1916, La Santona(uncredited) ,1917
+1917, Eolo Capritti ,1918
+1918, Giovanni Corporale ,1919
+1919, Man in the Crowd(uncredited),1920
+1920, Russell Crowe ,1921
+1921, Guy Pearce ,1922
+1922, Kim Basinger ,1923
+1923, David Strathairn ,1924
+1924, Ron Rifkin ,1925
+1925, Matt McCoy ,1926
+1926, Paul Guilfoyle ,1927
+1927, Paolo Seganti ,1928
+1928, Elisabeth Granli ,1929
+1929, Sandra Taylor ,1930
+1930, Steve Rankin ,1931
+1931, Graham Beckel ,1932
+1932, Allan Graf ,1933
+1933, Precious Chong ,1934
+1934, Symba ,1935
+1935, Jodie Foster ,1936
+1936, Cybill Shepherd ,1937
+1937, Albert Brooks ,1938
+1938, Diahnne Abbott ,1939
+1939, Frank Adu ,1940
+1940, Victor Argo ,1941
+1941, Gino Ardito ,1942
+1942, Garth Avery ,1943
+1943, Peter Boyle ,1944
+1944, Harry Cohn ,1945
+1945, Copper Cunningham ,1946
+1946, Brenda Dickson ,1947
+1947, Harry Fischler ,1948
+1948, Nat Grant ,1949
+1949, Leonard Harris ,1950
+1950, Richard Higgs ,1951
+1951, Beau Kayser ,1952
+1952,Dean-Charles Chapman ,1953
+1953, George MacKay ,1954
+1954, Daniel Mays ,1955
+1955, Colin Firth ,1956
+1956, Pip Carter ,1957
+1957, Andy Apollo ,1958
+1958, Paul Tinto ,1959
+1959, Josef Davies ,1960
+1960, Billy Postlethwaite ,1961
+1961, Gabriel Akuwudike ,1962
+1962, Andrew Scott ,1963
+1963, Spike Leighton ,1964
+1964, Robert Maaser ,1965
+1965, Gerran Howell ,1966
+1966, Adam Hugill ,1967
+1967, Mark Strong ,1968
+1968, Richard McCabe ,1969
+1969, Benjamin Adams ,1970
+1970,Bruno Ganz as Adolf Hitler as Alexandra Maria Lara as Traudl Junge as Ulrich Matthes as Joseph Goebbels as Juliane Köhler as Eva Braun as Corinna Harfouch as Magda Goebbels as Heino Ferch as Albert Speer as Christian Berkel as Prof. Ernst-Günther Schenck as Matthias Habich as Prof. Werner Haase as Thomas Kretschmann as Hermann Fegelein as Michael Mendl as General Weidling as André Hennicke as General Mohnke as Ulrich Noethen as Heinrich Himmler as Birgit Minichmayr as Gerda Christian as Rolf Kanies as General Hans Krebs as Justus von Dohnányi as General Wilhelm Burgdorf(as Justus von Dohnanyi) as Dieter Mann as Feldmarschall Wilhelm Keitel as Christian Redl as General Alfred Jodl as Götz Otto as Otto Günsche,1971
+1971, Sakshi Tanwar ,1972
+1972, Fatima Sana Shaikh ,1973
+1973, Sanya Malhotra ,1974
+1974, Aparshakti Khurana ,1975
+1975, Zaira Wasim ,1976
+1976, Suhani Bhatnagar ,1977
+1977, Ritvik Sahore ,1978
+1978, Girish Kulkarni ,1979
+1979, Ravi Aneja ,1980
+1980, Anurag Arora ,1981
+1981, Mahesh Balraj ,1982
+1982, Vivan Bhatena ,1983
+1983, Anmol Charan ,1984
+1984, Karamveer Choudhary ,1985
+1985, Ishika Gagneja ,1986
+1986, Badrul Islam ,1987
+1987, Jagbir ,1988
+1988, Gian Maria Volontè ,1989
+1989, Mara Krupp ,1990
+1990, Member of Indio's Gang ,1991
+1991, Juan Wild - The Hunchback ,1992
+1992, Manuel (Member of Indio's Gang)(as Luis Rodriguez) ,1993
+1993, Luke 'Hughie' ,1994
+1994, Sancho Perez,1995
+1995, Roberto Camardiel ,1996
+1996, Joseph Egger ,1997
+1997, Tomás Blanco ,1998
+1998, Lorenzo Robledo ,1999
+1999, Indio's Traitor ,2000
+2000, Carpenter in cell with El Indio ,2001
+2001, Tucumcari bank manager(as Sergio Mendizabal) ,2002
+2002, Callaway's beautiful girl in tub ,2003
+2003, Santa Cruz telegraphist,2004
+2004, Liam Neeson ,2005
+2005, Katie Holmes ,2006
+2006, Rutger Hauer ,2007
+2007, Linus Roache ,2008
+2008, Sara Stewart ,2009
+2009, Gus Lewis ,2010
+2010, Richard Brake ,2011
+2011,Tom Cruise ,2012
+2012, Miles Teller ,2013
+2013, Bashir Salahuddin ,2014
+2014, Jon Hamm ,2015
+2015, Charles Parnell ,2016
+2016, Monica Barbaro ,2017
+2017, Lewis Pullman ,2018
+2018, Jay Ellis ,2019
+2019, Danny Ramirez ,2020
+2020, Glen Powell ,2021
+2021, Jack Schumacher ,2022
+2022, Manny Jacinto ,2023
+2023, Kara Wang ,2024
+2024, Greg Tarzan Davis ,2025
+2025, Jake Picking ,2026
+2026, Raymond Lee ,2027
+2027,Marilyn Monroe ,2028
+2028, Tony Curtis ,2029
+2029, Jack Lemmon ,2030
+2030, George Raft ,2031
+2031, Pat O'Brien ,2032
+2032, Joe E. Brown ,2033
+2033, Nehemiah Persoff ,2034
+2034, Billy Gray ,2035
+2035, George E. Stone ,2036
+2036, Dave Barry ,2037
+2037, Mike Mazurki ,2038
+2038, Harry Wilson ,2039
+2039, Beverly Wills ,2040
+2040, Barbara Drew ,2041
+2041, Edward G. Robinson Jr. ,2042
+2042, Sam Bagley ,2043
+2043, Brandon Beach ,2044
+2044,Charles Chaplin as A Tramp(as Charlie Chaplin) as Edna Purviance as The Woman as Jackie Coogan as The Child(as Jack Coogan) as Carl Miller as The Man as Albert Austin as Car Thief(uncredited)… as Beulah Bains as Bride(uncredited) as Nellie Bly Baker as Slum Nurse(uncredited) as Henry Bergman as Professor Guido(uncredited)… as Edward Biby as Orphan Asylum Driver(uncredited) as B.F. Blinn as His Assistant(uncredited) as Kitty Bradbury as Bride's Mother(uncredited) as Frank Campeau as Welfare Officer(uncredited) as Bliss Chevalier as Extra in Wedding Scene(uncredited) as Frances Cochran as Extra in Reception Scene(uncredited) as Elsie Codd as Extra in Alley Scene(uncredited) as Jack Coogan Sr. as Pickpocket(uncredited)… as Estelle Cook as Extra in Wedding Scene(uncredited) as Lillian Crane as Extra in Wedding Scene(uncredited),2045
+2045, Jonah Hill ,2046
+2046, Margot Robbie ,2047
+2047, Matthew McConaughey ,2048
+2048, Kyle Chandler ,2049
+2049, Rob Reiner ,2050
+2050, Jon Bernthal ,2051
+2051, Jon Favreau ,2052
+2052, Jean Dujardin ,2053
+2053, Joanna Lumley ,2054
+2054, Cristin Milioti ,2055
+2055, Katarina Cas ,2056
+2056, P.J. Byrne ,2057
+2057, Kenneth Choi ,2058
+2058, Brian Sacca ,2059
+2059, Henry Zebrowski ,2060
+2060,Anthony Hopkins ,2061
+2061, Olivia Colman ,2062
+2062, Mark Gatiss ,2063
+2063, Olivia Williams ,2064
+2064, Imogen Poots ,2065
+2065, Rufus Sewell ,2066
+2066, Ayesha Dharker ,2067
+2067, Roman Zeller ,2068
+2068, Adnan Kundi ,2069
+2069, Brian Rodger ,2070
+2070, Evie Wray ,2071
+2071,Viggo Mortensen ,2072
+2072, Linda Cardellini ,2073
+2073, Sebastian Maniscalco ,2074
+2074, Dimiter D. Marinov ,2075
+2075, Mike Hatton ,2076
+2076, Maggie Nixon ,2077
+2077, Von Lewis ,2078
+2078, Jon Sortland ,2079
+2079, Don Stark ,2080
+2080, Anthony Mangano ,2081
+2081, Paul Sloan ,2082
+2082, Quinn Duffy ,2083
+2083, Seth Hurwitz ,2084
+2084, Hudson Galloway ,2085
+2085, Gavin Lyle Foley ,2086
+2086,Bette Davis ,2087
+2087, Anne Baxter ,2088
+2088, George Sanders ,2089
+2089, Celeste Holm ,2090
+2090, Gary Merrill ,2091
+2091, Hugh Marlowe ,2092
+2092, Gregory Ratoff ,2093
+2093, Barbara Bates ,2094
+2094, Marilyn Monroe ,2095
+2095, Walter Hampden ,2096
+2096, Randy Stuart ,2097
+2097, Craig Hill ,2098
+2098, Leland Harris ,2099
+2099, Barbara White ,2100
+2100, Eddie Fisher ,2101
+2101, William Pullen ,2102
+2102, Claude Stroud ,2103
+2103,Spencer Tracy ,2104
+2104, Burt Lancaster ,2105
+2105, Richard Widmark ,2106
+2106, Maximilian Schell ,2107
+2107, Judy Garland ,2108
+2108, Montgomery Clift ,2109
+2109, William Shatner ,2110
+2110, Werner Klemperer ,2111
+2111, Kenneth MacKenna ,2112
+2112, Torben Meyer ,2113
+2113, Joseph Bernard ,2114
+2114, Alan Baxter ,2115
+2115, Virginia Christine ,2116
+2116, Otto Waldis ,2117
+2117, Karl Swenson ,2118
+2118, Martin Brandt ,2119
+2119, Ed Harris ,2120
+2120, Laura Linney ,2121
+2121, Noah Emmerich ,2122
+2122, Natascha McElhone ,2123
+2123, Holland Taylor ,2124
+2124, Brian Delate ,2125
+2125, Blair Slater ,2126
+2126, Peter Krause ,2127
+2127, Heidi Schanz ,2128
+2128, Ron Taylor ,2129
+2129, Don Taylor ,2130
+2130, Ted Raymond ,2131
+2131, Judy Clayton ,2132
+2132, Fritz Dominique ,2133
+2133, Angel Schmiedt ,2134
+2134, Nastassja Schmiedt ,2135
+2135, Muriel Moore ,2136
+2136,Daniel Day-Lewis ,2137
+2137, Paul Dano ,2138
+2138, Ciarán Hinds ,2139
+2139, Martin Stringer ,2140
+2140, Matthew Braden Stringer ,2141
+2141, Jacob Stringer ,2142
+2142, Joseph Mussey ,2143
+2143, Harrison Taylor ,2144
+2144, Stockton Taylor ,2145
+2145, Paul F. Tompkins ,2146
+2146, Dillon Freasier ,2147
+2147, Kevin Breznahan ,2148
+2148, Jim Meskimen ,2149
+2149, Erica Sullivan ,2150
+2150, Randall Carver ,2151
+2151, Coco Leigh ,2152
+2152, Sydney McCallister ,2153
+2153, Sharon Stone ,2154
+2154, Alan King ,2155
+2155, L.Q. Jones ,2156
+2156, Dick Smothers ,2157
+2157, John Bloom ,2158
+2158, Pasquale Cajano ,2159
+2159, Melissa Prophet ,2160
+2160, Bill Allison ,2161
+2161, Vinny Vella ,2162
+2162, Philip Suriano ,2163
+2163, Erika von Tagen ,2164
+2164, Frankie Avalon ,2165
+2165,Tatsuya Nakadai ,2166
+2166, Akira Terao ,2167
+2167, Jinpachi Nezu ,2168
+2168, Daisuke Ryû ,2169
+2169, Mieko Harada ,2170
+2170, Yoshiko Miyazaki ,2171
+2171, Hisashi Igawa ,2172
+2172, Pîtâ ,2173
+2173, Masayuki Yui ,2174
+2174, Kazuo Katô ,2175
+2175, Norio Matsui ,2176
+2176, Toshiya Ito ,2177
+2177, Kenji Kodama ,2178
+2178, Takashi Watanabe ,2179
+2179, Mansai Nomura ,2180
+2180, Hitoshi Ueki ,2181
+2181, Emily Mortimer ,2182
+2182, Max von Sydow ,2183
+2183, Michelle Williams ,2184
+2184, Jackie Earle Haley ,2185
+2185, John Carroll Lynch ,2186
+2186, Elias Koteas ,2187
+2187, Robin Bartlett ,2188
+2188, Christopher Denham ,2189
+2189, Nellie Sciutto ,2190
+2190, Joseph Sikora ,2191
+2191, Curtiss Cook ,2192
+2192, Raymond Anthony Thomas ,2193
+2193, Joseph McKenna ,2194
+2194,Ivana Baquero ,2195
+2195, Ariadna Gil ,2196
+2196, Sergi López ,2197
+2197, Maribel Verdú ,2198
+2198, Doug Jones ,2199
+2199, Álex Angulo ,2200
+2200, Manolo Solo ,2201
+2201, César Vea ,2202
+2202, Roger Casamajor ,2203
+2203, Ivan Massagué ,2204
+2204, Gonzalo Uriarte ,2205
+2205, Eusebio Lázaro ,2206
+2206, Francisco Vidal ,2207
+2207, Juanjo Cucalón ,2208
+2208, Lina Mira ,2209
+2209, Mario Zorrilla ,2210
+2210, Sebastián Haro ,2211
+2211, Mila Espiga ,2212
+2212, Haley Joel Osment ,2213
+2213, Toni Collette ,2214
+2214, Trevor Morgan ,2215
+2215, Donnie Wahlberg ,2216
+2216, Peter Anthony Tambakis ,2217
+2217, Jeffrey Zubernis ,2218
+2218, Bruce Norris ,2219
+2219, Glenn Fitzgerald ,2220
+2220, Greg Wood ,2221
+2221, Mischa Barton ,2222
+2222, Angelica Page ,2223
+2223, Lisa Summerour ,2224
+2224, Firdous Bamji ,2225
+2225, Hayden Saunier ,2226
+2226, Janis Dardaris ,2227
+2227,Sam Neill ,2228
+2228, Laura Dern ,2229
+2229, Jeff Goldblum ,2230
+2230, Richard Attenborough ,2231
+2231, Bob Peck ,2232
+2232, Martin Ferrero ,2233
+2233, BD Wong ,2234
+2234, Joseph Mazzello ,2235
+2235, Ariana Richards ,2236
+2236, Wayne Knight ,2237
+2237, Gerald R. Molen ,2238
+2238, Miguel Sandoval ,2239
+2239, Cameron Thor ,2240
+2240, Christopher John Fields ,2241
+2241, Whit Hertford ,2242
+2242, Dean Cundey ,2243
+2243, Jophery C. Brown ,2244
+2244, Gene Hackman ,2245
+2245, Jaimz Woolvett ,2246
+2246, Saul Rubinek ,2247
+2247, Frances Fisher ,2248
+2248, Anna Thomson ,2249
+2249, David Mucci ,2250
+2250, Rob Campbell ,2251
+2251, Anthony James ,2252
+2252, Tara Frederick ,2253
+2253, Beverley Elliott ,2254
+2254, Liisa Repo-Martell ,2255
+2255, Josie Smith ,2256
+2256, Shane Meier ,2257
+2257, Aline Levasseur ,2258
+2258, Cherrilene Cardinal ,2259
+2259, Josh Lucas ,2260
+2260, Anthony Rapp ,2261
+2261, Jason Gray-Stanford ,2262
+2262, Judd Hirsch ,2263
+2263, Austin Pendleton ,2264
+2264, Vivien Cardone ,2265
+2265, Jillie Simon ,2266
+2266, Victor Steinbach ,2267
+2267, Tanya Clarke ,2268
+2268, Thomas F. Walsh ,2269
+2269, Jesse Doran ,2270
+2270, Kent Cassella ,2271
+2271, Walter Huston ,2272
+2272, Tim Holt ,2273
+2273, Bruce Bennett ,2274
+2274, Barton MacLane ,2275
+2275, Alfonso Bedoya ,2276
+2276, Arturo Soto Rangel ,2277
+2277, Manuel Dondé ,2278
+2278, José Torvay ,2279
+2279, Margarito Luna ,2280
+2280, Robert Blake ,2281
+2281, Guillermo Calles ,2282
+2282, Roberto Cañedo ,2283
+2283, Spencer Chan ,2284
+2284, Jacqueline Dalya ,2285
+2285, Ralph Dunn ,2286
+2286, Ernesto Escoto ,2287
+2287, Pat Flaherty ,2288
+2288,Tommy Lee Jones ,2289
+2289, Javier Bardem ,2290
+2290, Josh Brolin ,2291
+2291, Woody Harrelson ,2292
+2292, Kelly Macdonald ,2293
+2293, Garret Dillahunt ,2294
+2294, Tess Harper ,2295
+2295, Barry Corbin ,2296
+2296, Stephen Root ,2297
+2297, Rodger Boyce ,2298
+2298, Beth Grant ,2299
+2299, Ana Reeder ,2300
+2300, Kit Gwin ,2301
+2301, Zach Hopkins ,2302
+2302, Chip Love ,2303
+2303, Eduardo Antonio Garcia ,2304
+2304, Gene Jones ,2305
+2305, Myk Watford ,2306
+2306, Yôko Tsukasa ,2307
+2307, Isuzu Yamada ,2308
+2308, Seizaburô Kawazu ,2309
+2309, Hiroshi Tachikawa ,2310
+2310, Yôsuke Natsuki ,2311
+2311, Ikio Sawamura ,2312
+2312, Susumu Fujita ,2313
+2313, Kyû Sazanka ,2314
+2314, Kô Nishimura ,2315
+2315, Ichirô Nakatani ,2316
+2316,Uma Thurman ,2317
+2317, David Carradine ,2318
+2318, Daryl Hannah ,2319
+2319, Lucy Liu ,2320
+2320, Vivica A. Fox ,2321
+2321, Chiaki Kuriyama ,2322
+2322, Shin'ichi Chiba ,2323
+2323, Chia-Hui Liu ,2324
+2324, Michael Parks ,2325
+2325, Michael Bowen ,2326
+2326, Jun Kunimura ,2327
+2327, Kenji Ôba ,2328
+2328, Yuki Kazamatsuri ,2329
+2329, James Parks ,2330
+2330, Sakichi Sato ,2331
+2331, Jonathan Loughran ,2332
+2332,Kurt Russell ,2333
+2333, Wilford Brimley ,2334
+2334, Richard Masur ,2335
+2335, T.K. Carter ,2336
+2336, David Clennon ,2337
+2337, Richard Dysart ,2338
+2338, Charles Hallahan ,2339
+2339, Peter Maloney ,2340
+2340, Donald Moffat ,2341
+2341, Joel Polis ,2342
+2342, Thomas G. Waites ,2343
+2343, Larry Franco ,2344
+2344, Nate Irwin ,2345
+2345, William Zeman ,2346
+2346, Adrienne Barbeau ,2347
+2347, John Carpenter ,2348
+2348,Graham Chapman ,2349
+2349, John Cleese ,2350
+2350, Eric Idle ,2351
+2351, Terry Gilliam ,2352
+2352, Terry Jones ,2353
+2353, Michael Palin ,2354
+2354, Connie Booth ,2355
+2355, Carol Cleveland ,2356
+2356, Neil Innes ,2357
+2357, Bee Duffell ,2358
+2358, John Young ,2359
+2359, Rita Davies ,2360
+2360, Avril Stewart ,2361
+2361, Sally Kinghorn ,2362
+2362, Mark Zycon ,2363
+2363, Elspeth Cameron ,2364
+2364, Mitsuko Forstater ,2365
+2365, Sandy Johnson ,2366
+2366,Steve McQueen ,2367
+2367, James Garner ,2368
+2368, James Donald ,2369
+2369, Donald Pleasence ,2370
+2370, James Coburn ,2371
+2371, Hannes Messemer ,2372
+2372, David McCallum ,2373
+2373, Gordon Jackson ,2374
+2374, John Leyton ,2375
+2375, Angus Lennie ,2376
+2376, Nigel Stock ,2377
+2377, Robert Graf ,2378
+2378, Jud Taylor ,2379
+2379, Hans Reiser ,2380
+2380, Harry Riebauer ,2381
+2381, William Russell ,2382
+2382,Albert Brooks ,2383
+2383, Ellen DeGeneres ,2384
+2384, Alexander Gould ,2385
+2385, Willem Dafoe ,2386
+2386, Brad Garrett ,2387
+2387, Vicki Lewis ,2388
+2388, Joe Ranft ,2389
+2389, Geoffrey Rush ,2390
+2390, Andrew Stanton ,2391
+2391, Elizabeth Perkins ,2392
+2392, Nicholas Bird ,2393
+2393, Barry Humphries ,2394
+2394, Eric Bana ,2395
+2395, Bruce Spence ,2396
+2396, Machiko Kyô ,2397
+2397, Masayuki Mori ,2398
+2398, Anne Bancroft ,2399
+2399, John Gielgud ,2400
+2400, Wendy Hiller ,2401
+2401, Freddie Jones ,2402
+2402, Michael Elphick ,2403
+2403, Hannah Gordon ,2404
+2404, Helen Ryan ,2405
+2405, John Standing ,2406
+2406, Dexter Fletcher ,2407
+2407, Lesley Dunlop ,2408
+2408, Phoebe Nicholls ,2409
+2409, Pat Gorman ,2410
+2410, Claire Davenport ,2411
+2411, Orla Pederson ,2412
+2412, Patsy Smart ,2413
+2413, Frederick Treves ,2414
+2414, Faye Dunaway ,2415
+2415, John Huston ,2416
+2416, Perry Lopez ,2417
+2417, John Hillerman ,2418
+2418, Darrell Zwerling ,2419
+2419, Diane Ladd ,2420
+2420, Roy Jenson ,2421
+2421, Roman Polanski ,2422
+2422, Richard Bakalyan ,2423
+2423, Joe Mantell ,2424
+2424, Bruce Glover ,2425
+2425, Nandu Hinds ,2426
+2426, James O'Rear ,2427
+2427, James Hong ,2428
+2428, Beulah Quo ,2429
+2429, Jerry Fujikawa ,2430
+2430, Belinda Palmer ,2431
+2431,Chieko Baishô ,2432
+2432, Takuya Kimura ,2433
+2433, Akihiro Miwa ,2434
+2434, Mitsunori Isaki ,2435
+2435, Akio Ôtsuka ,2436
+2436, Daijirô Harada ,2437
+2437, Haruko Katô ,2438
+2438, Jean Simmons ,2439
+2439, Christian Bale ,2440
+2440, Lauren Bacall ,2441
+2441, Blythe Danner ,2442
+2442, Josh Hutcherson ,2443
+2443, Billy Crystal ,2444
+2444, Jena Malone ,2445
+2445,Ray Milland ,2446
+2446, Robert Cummings ,2447
+2447, Anthony Dawson ,2448
+2448, Leo Britt ,2449
+2449, Patrick Allen ,2450
+2450, George Leigh ,2451
+2451, George Alderson ,2452
+2452, Robin Hughes ,2453
+2453, Richard Bender ,2454
+2454, Robin Sanders Clark ,2455
+2455, Jack Cunningham ,2456
+2456, Robert Dobson ,2457
+2457, Guy Doleman ,2458
+2458, Robert Garvin ,2459
+2459, Herschel Graham ,2460
+2460,Clark Gable ,2461
+2461, Vivien Leigh ,2462
+2462, Barbara O'Neil ,2463
+2463, Evelyn Keyes ,2464
+2464, Ann Rutherford ,2465
+2465, George Reeves ,2466
+2466, Fred Crane ,2467
+2467, Hattie McDaniel ,2468
+2468, Oscar Polk ,2469
+2469, Butterfly McQueen ,2470
+2470, Victor Jory ,2471
+2471, Everett Brown ,2472
+2472, Howard Hickman ,2473
+2473, Alicia Rhett ,2474
+2474, Leslie Howard ,2475
+2475, Olivia de Havilland ,2476
+2476, Rand Brooks ,2477
+2477,Hugo Weaving ,2478
+2478, Rupert Graves ,2479
+2479, Stephen Rea ,2480
+2480, Stephen Fry ,2481
+2481, Tim Pigott-Smith ,2482
+2482, Roger Allam ,2483
+2483, Ben Miles ,2484
+2484, Sinéad Cusack ,2485
+2485, Natasha Wightman ,2486
+2486, Eddie Marsan ,2487
+2487, Clive Ashborn ,2488
+2488, Emma Field-Rayner ,2489
+2489, Ian Burfield ,2490
+2490, Mark Phoenix ,2491
+2491, Alister Mazzotti ,2492
+2492, Cathy Moriarty ,2493
+2493, Nicholas Colasanto ,2494
+2494, Theresa Saldana ,2495
+2495, Mario Gallo ,2496
+2496, Frank Adonis ,2497
+2497, Joseph Bono ,2498
+2498, Frank Topham ,2499
+2499, Lori Anne Flax ,2500
+2500, Don Dunphy ,2501
+2501, Bill Hanrahan ,2502
+2502, Rita Bennett ,2503
+2503, James V. Christy ,2504
+2504, Bernie Allen ,2505
+2505, Floyd Anderson ,2506
+2506,Hugh Jackman ,2507
+2507, Jake Gyllenhaal ,2508
+2508, Viola Davis ,2509
+2509, Melissa Leo ,2510
+2510, Maria Bello ,2511
+2511, Terrence Howard ,2512
+2512, Dylan Minnette ,2513
+2513, Zoë Soul ,2514
+2514, Erin Gerasimovich ,2515
+2515, Kyla-Drew ,2516
+2516, Wayne Duvall ,2517
+2517, Len Cariou ,2518
+2518, David Dastmalchian ,2519
+2519, Brad James ,2520
+2520, Anthony Reynolds ,2521
+2521, Robert C. Treveiler ,2522
+2522, Sandra Ellis Lafferty ,2523
+2523,Jason Flemyng ,2524
+2524, Nick Moran ,2525
+2525, Jason Statham ,2526
+2526, Steven Mackintosh ,2527
+2527, Nicholas Rowe ,2528
+2528, Nick Marcq ,2529
+2529, Charles Forbes ,2530
+2530, Lenny McLean ,2531
+2531, Peter McNicholl ,2532
+2532, P.H. Moriarty ,2533
+2533, Frank Harper ,2534
+2534, Steve Sweeney ,2535
+2535, Huggy Leaver ,2536
+2536, Ronnie Fox ,2537
+2537, Tony McMahon ,2538
+2538, Stephen Marcus ,2539
+2539,Ricardo Darín ,2540
+2540, Soledad Villamil ,2541
+2541, Pablo Rago ,2542
+2542, Carla Quevedo ,2543
+2543, Javier Godino ,2544
+2544, Bárbara Palladino ,2545
+2545, Rudy Romano ,2546
+2546, Alejandro Abelenda ,2547
+2547, Mario Alarcón ,2548
+2548, Guillermo Francella ,2549
+2549, Sebastián Blanco ,2550
+2550, Mariano Argento ,2551
+2551, José Luis Gioia ,2552
+2552, Juan José Ortíz ,2553
+2553, Kiko Cerone ,2554
+2554, Fernando Pardo ,2555
+2555, Maximiliano Trento ,2556
+2556, Sergio Santana ,2557
+2557,Amy Poehler ,2558
+2558, Bill Hader ,2559
+2559, Lewis Black ,2560
+2560, Mindy Kaling ,2561
+2561, Phyllis Smith ,2562
+2562, Richard Kind ,2563
+2563, Kaitlyn Dias ,2564
+2564, Diane Lane ,2565
+2565, Kyle MacLachlan ,2566
+2566, Paula Poundstone ,2567
+2567, Bobby Moynihan ,2568
+2568, Paula Pell ,2569
+2569, Dave Goelz ,2570
+2570, Flea ,2571
+2571, Carlos Alazraqui ,2572
+2572,Tom Holland ,2573
+2573, Zendaya ,2574
+2574, Jacob Batalon ,2575
+2575, Jamie Foxx ,2576
+2576, Benedict Wong ,2577
+2577, Tony Revolori ,2578
+2578, Marisa Tomei ,2579
+2579, Andrew Garfield ,2580
+2580, Tobey Maguire ,2581
+2581, Angourie Rice ,2582
+2582, Arian Moayed ,2583
+2583, Paula Newsome ,2584
+2584, Hannibal Buress ,2585
+2585, Martin Starr ,2586
+2586,Frances McDormand ,2587
+2587, Caleb Landry Jones ,2588
+2588, Kerry Condon ,2589
+2589, Alejandro Barrios ,2590
+2590, Clarke Peters ,2591
+2591, Darrell Britt-Gibson ,2592
+2592, Abbie Cornish ,2593
+2593, Riya May Atwood ,2594
+2594, Selah Atwood ,2595
+2595, Lucas Hedges ,2596
+2596, Zeljko Ivanek ,2597
+2597, Amanda Warren ,2598
+2598, Malaya Rivera Drew ,2599
+2599, Sandy Martin ,2600
+2600, Peter Dinklage ,2601
+2601, Christopher Berry ,2602
+2602, Sessue Hayakawa ,2603
+2603, Geoffrey Horne ,2604
+2604, André Morell ,2605
+2605, Peter Williams ,2606
+2606, John Boxer ,2607
+2607, Percy Herbert ,2608
+2608, Harold Goodwin ,2609
+2609, Ann Sears ,2610
+2610, Heihachirô Ôkawa ,2611
+2611, Keiichirô Katsumoto ,2612
+2612, K. Katsumoto) ,2613
+2613, Yai ,2614
+2614, Siamese Girl ,2615
+2615, Siamese Girl,2616
+2616,Ewan McGregor ,2617
+2617, Jonny Lee Miller ,2618
+2618, Kevin McKidd ,2619
+2619, Robert Carlyle ,2620
+2620, Peter Mullan ,2621
+2621, Eileen Nicholas ,2622
+2622, Susan Vidler ,2623
+2623, Pauline Lynch ,2624
+2624, Shirley Henderson ,2625
+2625, Stuart McQuarrie ,2626
+2626, Irvine Welsh ,2627
+2627, Dale Winton ,2628
+2628, Keith Allen ,2629
+2629, Kevin Allen ,2630
+2630, Annie Louise Ross ,2631
+2631,William H. Macy ,2632
+2632, Frances McDormand ,2633
+2633, Peter Stormare ,2634
+2634, Kristin Rudrüd ,2635
+2635, Harve Presnell ,2636
+2636, Tony Denman ,2637
+2637, Gary Houston ,2638
+2638, Sally Wingert ,2639
+2639, Kurt Schweickhardt ,2640
+2640, Larissa Kokernot ,2641
+2641, Melissa Peterman ,2642
+2642, Steve Reevis ,2643
+2643, Warren Keith ,2644
+2644, Steve Edelman ,2645
+2645, Sharon Anderson ,2646
+2646, James Gaulke ,2647
+2647,Tom Hardy ,2648
+2648, Nick Nolte ,2649
+2649, Joel Edgerton ,2650
+2650, Jennifer Morrison ,2651
+2651, Frank Grillo ,2652
+2652, Kevin Dunn ,2653
+2653, Maximiliano Hernández ,2654
+2654, Bryan Callen ,2655
+2655, Sam Sheridan ,2656
+2656, Fernando Chien ,2657
+2657, Jake McLaughlin ,2658
+2658, Vanessa Martinez ,2659
+2659, Denzel Whitaker ,2660
+2660, Carlos Miranda ,2661
+2661, Nick Lehane ,2662
+2662, Laura Chinn ,2663
+2663, Capri Thomas ,2664
+2664, Lexi Cowan ,2665
+2665, Bee Vang ,2666
+2666, Christopher Carley ,2667
+2667, Ahney Her ,2668
+2668, Brian Haley ,2669
+2669, Geraldine Hughes ,2670
+2670, Dreama Walker ,2671
+2671, Brian Howe ,2672
+2672, William Hill ,2673
+2673, Brooke Chia Thao ,2674
+2674, Chee Thao ,2675
+2675, Choua Kue ,2676
+2676, Scott Eastwood ,2677
+2677, Xia Soua Chang ,2678
+2678, Sonny Vue ,2679
+2679, Doua Moua ,2680
+2680, Greg Trzaskoma ,2681
+2681, Tom Hanks ,2682
+2682, Christopher Walken ,2683
+2683, Nathalie Baye ,2684
+2684, Amy Adams ,2685
+2685, James Brolin ,2686
+2686, Frank John Hughes ,2687
+2687, Steve Eastin ,2688
+2688, Chris Ellis ,2689
+2689, John Finn ,2690
+2690, Jennifer Garner ,2691
+2691, Nancy Lenehan ,2692
+2692, Ellen Pompeo ,2693
+2693, Elizabeth Banks ,2694
+2694, Guy Thauvette ,2695
+2695, Candice Azzara ,2696
+2696,Hitoshi Takagi ,2697
+2697, Noriko Hidaka ,2698
+2698, Chika Sakamoto ,2699
+2699, Shigesato Itoi ,2700
+2700, Sumi Shimamoto ,2701
+2701, Tanie Kitabayashi ,2702
+2702, Hiroko Maruyama ,2703
+2703, Machiko Washio ,2704
+2704, Reiko Suzuki ,2705
+2705, Masashi Hirose ,2706
+2706, Toshiyuki Amagasa ,2707
+2707, Shigeru Chiba ,2708
+2708, Naoki Tatsuta ,2709
+2709, Tarako ,2710
+2710, Tomohiro Nishimura ,2711
+2711, Mitsuko Ishida ,2712
+2712, Chie Kôjiro ,2713
+2713, Daiki Nakamura ,2714
+2714,Hilary Swank ,2715
+2715, Clint Eastwood ,2716
+2716, Jay Baruchel ,2717
+2717, Mike Colter ,2718
+2718, Lucia Rijker ,2719
+2719, Brían F. O'Byrne ,2720
+2720, Margo Martindale ,2721
+2721, Riki Lindhome ,2722
+2722, Michael Peña ,2723
+2723, Benito Martinez ,2724
+2724, Bruce MacVittie ,2725
+2725, David Powledge ,2726
+2726, Joe D'Angerio ,2727
+2727, Marcus Chait ,2728
+2728, Tom McCleister ,2729
+2729, Erica Grant ,2730
+2730,Jason Schwartzman ,2731
+2731, Rashida Jones ,2732
+2732, Will Sasso ,2733
+2733, Neda Margrethe Labba ,2734
+2734, Sergio Pablos ,2735
+2735, Norm MacDonald ,2736
+2736, Evan Agos ,2737
+2737, Sky Alexis ,2738
+2738, Jaeden Bettencourt ,2739
+2739, Teddy Blum ,2740
+2740, Mila Brener ,2741
+2741, Sydney Brower ,2742
+2742, Finn Carr ,2743
+2743, Kendall Joy Hall ,2744
+2744, Hailey Hermida ,2745
+2745, Lexie Holland ,2746
+2746,Daniel Radcliffe ,2747
+2747, Emma Watson ,2748
+2748, Rupert Grint ,2749
+2749, Michael Gambon ,2750
+2750, Evanna Lynch ,2751
+2751, Domhnall Gleeson ,2752
+2752, Clémence Poésy ,2753
+2753, Warwick Davis ,2754
+2754, Graham Duff ,2755
+2755, Anthony Allgood ,2756
+2756, Rusty Goffe ,2757
+2757, Jon Key ,2758
+2758, Jason Isaacs ,2759
+2759,Mohammad Amir Naji ,2760
+2760, Amir Farrokh Hashemian ,2761
+2761, Bahare Seddiqi ,2762
+2762, Nafise Jafar-Mohammadi ,2763
+2763, Fereshte Sarabandi ,2764
+2764, Kamal Mirkarimi ,2765
+2765, Behzad Rafi ,2766
+2766, Dariush Mokhtari ,2767
+2767, Mohammad-Hasan Hosseinian ,2768
+2768, Masume Dair ,2769
+2769, Kambiz Peykarnegar ,2770
+2770, Hasan Roohparvari ,2771
+2771, Abbas-Ali Roomandi ,2772
+2772, Jafar Seyfollahi ,2773
+2773, Qolamreza Maleki ,2774
+2774, Zahra Mirzai ,2775
+2775, Sara Zamani ,2776
+2776, Mohammad Haj Hosseini ,2777
+2777, Sean Young ,2778
+2778, M. Emmet Walsh ,2779
+2779, William Sanderson ,2780
+2780, Brion James ,2781
+2781, Joanna Cassidy ,2782
+2782, Morgan Paull ,2783
+2783, Kevin Thompson ,2784
+2784, John Edward Allen ,2785
+2785, Hy Pyke ,2786
+2786, Kimiko Hiroshige ,2787
+2787, Bob Okazaki ,2788
+2788, Carolyn DeMirjian ,2789
+2789,Chiwetel Ejiofor ,2790
+2790, Michael Kenneth Williams ,2791
+2791, Dwight Henry ,2792
+2792, Dickie Gravois ,2793
+2793, Bryan Batt ,2794
+2794, Ashley Dyke ,2795
+2795, Kelsey Scott ,2796
+2796, Quvenzhané Wallis ,2797
+2797, Cameron Zeigler ,2798
+2798, Tony Bentley ,2799
+2799, Scoot McNairy ,2800
+2800, Taran Killam ,2801
+2801, Mister Mackey Jr. ,2802
+2802, Chris Chalk ,2803
+2803,Ethan Hawke ,2804
+2804, Julie Delpy ,2805
+2805, Andrea Eckert ,2806
+2806, Hanno Pöschl ,2807
+2807, Karl Bruckschwaiger ,2808
+2808, Tex Rubinowitz ,2809
+2809, Erni Mangold ,2810
+2810, Dominik Castell ,2811
+2811, Haymon Maria Buttinger ,2812
+2812, Harald Waiglein ,2813
+2813, Bilge Jeschim ,2814
+2814, Kurti ,2815
+2815, Hans Weingartner ,2816
+2816, Liese Lyon ,2817
+2817, Peter Ily Huemer ,2818
+2818, Otto Reiter ,2819
+2819, Hubert Fabian Kulterer ,2820
+2820, Branko Andric ,2821
+2821,Ralph Fiennes ,2822
+2822, Mathieu Amalric ,2823
+2823, Adrien Brody ,2824
+2824, Harvey Keitel ,2825
+2825, Jude Law ,2826
+2826, Bill Murray ,2827
+2827, Saoirse Ronan ,2828
+2828, Léa Seydoux ,2829
+2829, Tilda Swinton ,2830
+2830, Owen Wilson ,2831
+2831, Larry Pine ,2832
+2832, Mack Swain ,2833
+2833, Tom Murray ,2834
+2834, Malcolm Waite ,2835
+2835, Georgia Hale ,2836
+2836, Jack Adams ,2837
+2837, Frank Aderias ,2838
+2838, Leona Aderias ,2839
+2839, Lillian Adrian ,2840
+2840, Sam Allen ,2841
+2841, Claude Anderson ,2842
+2842, Harry Arras ,2843
+2843, Albert Austin ,2844
+2844, Marta Belfort ,2845
+2845, William Bell ,2846
+2846, Francis Bernhardt ,2847
+2847, F.J. Beuaregard ,2848
+2848,Charlton Heston ,2849
+2849, Stephen Boyd ,2850
+2850, Haya Harareet ,2851
+2851, Hugh Griffith ,2852
+2852, Martha Scott ,2853
+2853, Cathy O'Donnell ,2854
+2854, Sam Jaffe ,2855
+2855, Finlay Currie ,2856
+2856, Frank Thring ,2857
+2857, Terence Longdon ,2858
+2858, George Relph ,2859
+2859, Umberto Alivernini ,2860
+2860, Armando Annuale ,2861
+2861, Artemio Antonini ,2862
+2862, Nello Appodia ,2863
+2863, Fortunato Arena ,2864
+2864,Ryan O'Neal ,2865
+2865, Marisa Berenson ,2866
+2866, Hardy Krüger ,2867
+2867, Steven Berkoff ,2868
+2868, Gay Hamilton ,2869
+2869, Marie Kean ,2870
+2870, Diana Körner ,2871
+2871, Murray Melvin ,2872
+2872, Frank Middlemass ,2873
+2873, Arthur O'Sullivan ,2874
+2874, Leon Vitali ,2875
+2875, John Bindon ,2876
+2876, Roger Booth ,2877
+2877,Ben Affleck ,2878
+2878, Rosamund Pike ,2879
+2879, Neil Patrick Harris ,2880
+2880, Tyler Perry ,2881
+2881, Carrie Coon ,2882
+2882, Kim Dickens ,2883
+2883, Patrick Fugit ,2884
+2884, Lisa Banes ,2885
+2885, Missi Pyle ,2886
+2886, Emily Ratajkowski ,2887
+2887, Casey Wilson ,2888
+2888, Lola Kirke ,2889
+2889, Boyd Holbrook ,2890
+2890, Sela Ward ,2891
+2891, Lee Norris ,2892
+2892, Jamie McShane ,2893
+2893, Leonard Kelly-Young ,2894
+2894,Andrew Garfield ,2895
+2895, Sam Worthington ,2896
+2896, Luke Bracey ,2897
+2897, Teresa Palmer ,2898
+2898, Richard Pyros ,2899
+2899, Jacob Warner ,2900
+2900, Milo Gibson ,2901
+2901, Darcy Bryce ,2902
+2902, Roman Guerriero ,2903
+2903, James Lugton ,2904
+2904, Kasia Stelmach ,2905
+2905, Rachel Griffiths ,2906
+2906, Jarin Towney ,2907
+2907, Tim McGarry ,2908
+2908, Tyler Coppin ,2909
+2909, Richard Platt ,2910
+2910, Nathaniel Buzolic ,2911
+2911, Karl Malden ,2912
+2912, Rod Steiger ,2913
+2913, Pat Henning ,2914
+2914, Leif Erickson ,2915
+2915, James Westerfield ,2916
+2916, Tony Galento ,2917
+2917, Tami Mauriello ,2918
+2918, John F. Hamilton ,2919
+2919, John Heldabrand ,2920
+2920, Don Blackman ,2921
+2921, Arthur Keegan ,2922
+2922, Abe Simon ,2923
+2923, Dan Bergin ,2924
+2924,Daniel Day-Lewis as Gerry Conlon as Pete Postlethwaite as Giuseppe Conlon as Alison Crosbie as Girl in Pub as Philip King as Guildford Soldier as Emma Thompson as Gareth Peirce as Nye Heron as IRA Man 1 as Anthony Brophy as Danny as Frankie McCafferty as Tommo as Paul Warriner as Soldier as Julian Walsh as Soldier as Stuart Wolfenden as Soldier(as Stuart Wolvenden) as Jo Connor as Bin Lady as Karen Carlisle as Female Rioter as Seamus Moran as IRA Man 2 as Billy Byrne as IRA Man 3 as Maureen McBride as Mother as Jane Nolan as Girl with Baby as Laurence Griffin as Boy in Riot,2925
+2925, Kim Sang-kyung ,2926
+2926, Roe-ha Kim ,2927
+2927, Jae-ho Song ,2928
+2928, Byun Hee-Bong ,2929
+2929, Seo-hie Ko ,2930
+2930, Tae-ho Ryu ,2931
+2931, No-shik Park ,2932
+2932, Park Hae-il ,2933
+2933, Jeon Mi-seon ,2934
+2934, Young-hwa Seo ,2935
+2935, Woo Go-na ,2936
+2936, Ok-joo Lee ,2937
+2937, Jong-ryol Choi ,2938
+2938, Seung-mok Yoo ,2939
+2939, Hun-Kyung Lee ,2940
+2940, Shin Hyun-jong ,2941
+2941, Jae-eung Lee ,2942
+2942,Buster Keaton ,2943
+2943, Marion Mack ,2944
+2944, Glen Cavender ,2945
+2945, Jim Farley ,2946
+2946, Frederick Vroom ,2947
+2947, Frank Barnes ,2948
+2948, Charles Henry Smith ,2949
+2949, Joe Keaton ,2950
+2950, Mike Donlin ,2951
+2951, Tom Nawn ,2952
+2952, Henry Baird ,2953
+2953, Joe Bricher ,2954
+2954, Jimmy Bryant ,2955
+2955, Sergeant Bukowski ,2956
+2956, C.C. Cruson ,2957
+2957, Jack Dempster ,2958
+2958, Keith Fennell ,2959
+2959, Budd Fine ,2960
+2960, John Savage ,2961
+2961, Meryl Streep ,2962
+2962, George Dzundza ,2963
+2963, Chuck Aspegren ,2964
+2964, Shirley Stoler ,2965
+2965, Rutanya Alda ,2966
+2966, Pierre Segui ,2967
+2967, Mady Kaplan ,2968
+2968, Amy Wright ,2969
+2969, Mary Ann Haenel ,2970
+2970, Richard Kuss ,2971
+2971, Joe Grifasi ,2972
+2972, Christopher Colombi Jr. ,2973
+2973, Victoria Karnafel ,2974
+2974, Jack Scardino ,2975
+2975,Victor Sjöström as Dr. Eberhard Isak Borg as Bibi Andersson as Sara… as Ingrid Thulin as Marianne Borg as Gunnar Björnstrand as Dr. Evald Borg as Jullan Kindahl as Agda as Folke Sundquist as Anders as Björn Bjelfvenstam as Viktor(as Björn Bjelvenstam) as Naima Wifstrand as Mrs. Borg - Isak's Mother as Gunnel Broström as Berit Alman as Gertrud Fridh as Karin Borg - Isak's wife as Sif Ruud as Aunt Olga as Gunnar Sjöberg as Sten Alman… as Max von Sydow as Henrik Åkerman as Åke Fridell as Karin's Lover as Yngve Nordwall as Uncle Aron as Per Sjöstrand as Sigfrid Borg as Gio Petré as Sigbritt Borg as Gunnel Lindblom as Charlotta Borg,2976
+2976,Darío Grandinetti ,2977
+2977, María Marull ,2978
+2978, Mónica Villa ,2979
+2979, Diego Starosta ,2980
+2980, Marcelo Frasca ,2981
+2981, Lucila Mangone ,2982
+2982, María Laura Caccamo ,2983
+2983, Carlos Alberto Vavassori ,2984
+2984, Pablo Machado ,2985
+2985, Horacio Vay ,2986
+2986, Javier Pedersoli ,2987
+2987, Héctor Drachtman ,2988
+2988, María Rosa López Ottonello ,2989
+2989, Rita Cortese ,2990
+2990, Julieta Zylberberg ,2991
+2991, César Bordón ,2992
+2992, Juan Santiago Linari ,2993
+2993, Leonardo Sbaraglia ,2994
+2994, Alida Valli ,2995
+2995, Trevor Howard ,2996
+2996, Paul Hörbiger ,2997
+2997, Ernst Deutsch ,2998
+2998, Erich Ponto ,2999
+2999, Siegfried Breuer ,3000
+3000, Hedwig Bleibtreu ,3001
+3001, Bernard Lee ,3002
+3002, Wilfrid Hyde-White ,3003
+3003, Nelly Arno ,3004
+3004, Jack Arrow ,3005
+3005, Harold Ayer ,3006
+3006, Harry Belcher ,3007
+3007, Leo Bieber ,3008
+3008, Paul Birch ,3009
+3009, Martin Boddey ,3010
+3010,Yves Montand ,3011
+3011, Charles Vanel ,3012
+3012, Peter van Eyck ,3013
+3013, Folco Lulli ,3014
+3014, Véra Clouzot ,3015
+3015, William Tubbs ,3016
+3016, Darío Moreno ,3017
+3017, Jo Dest ,3018
+3018, Antonio Centa ,3019
+3019, Luis De Lima ,3020
+3020, Grégoire Gromoff ,3021
+3021, Faustini ,3022
+3022, Darling Légitimus ,3023
+3023, Charles Fawcett ,3024
+3024, Pat Hurst,3025
+3025, Kathryn McGuire ,3026
+3026, Erwin Connelly ,3027
+3027, Ward Crane ,3028
+3028, Jane Connelly ,3029
+3029, George Davis ,3030
+3030, Doris Deane ,3031
+3031, Christine Francis ,3032
+3032, Betsy Ann Hisle ,3033
+3033, Kewpie Morgan ,3034
+3034, Steve Murphy ,3035
+3035, John Patrick ,3036
+3036, Ford West ,3037
+3037, Robert Sean Leonard ,3038
+3038, Ethan Hawke ,3039
+3039, Josh Charles ,3040
+3040, Gale Hansen ,3041
+3041, Dylan Kussman ,3042
+3042, Allelon Ruggiero ,3043
+3043, James Waterston ,3044
+3044, Norman Lloyd ,3045
+3045, Kurtwood Smith ,3046
+3046, Carla Belver ,3047
+3047, Leon Pownall ,3048
+3048, George Martin ,3049
+3049, Joe Aufiery ,3050
+3050, Matt Carey ,3051
+3051, Kevin Cooney ,3052
+3052, Jane Moore ,3053
+3053, Lara Flynn Boyle ,3054
+3054, Charlize Theron ,3055
+3055, Nicholas Hoult ,3056
+3056, Hugh Keays-Byrne ,3057
+3057, Josh Helman ,3058
+3058, Nathan Jones ,3059
+3059, Rosie Huntington-Whiteley ,3060
+3060, Riley Keough ,3061
+3061, Abbey Lee ,3062
+3062, Courtney Eaton ,3063
+3063, John Howard ,3064
+3064, Richard Carter ,3065
+3065, Iota ,3066
+3066, Angus Sampson ,3067
+3067, Jennifer Hagan ,3068
+3068, Megan Gale ,3069
+3069, Melissa Jaffer ,3070
+3070,Billy Crystal ,3071
+3071, John Goodman ,3072
+3072, Mary Gibbs ,3073
+3073, Jennifer Tilly ,3074
+3074, Daniel Gerson ,3075
+3075, Steve Susskind ,3076
+3076, Jeff Pidgeon ,3077
+3077, Samuel Lord Black ,3078
+3078, Rodger Bumpass ,3079
+3079, Gino Conforti ,3080
+3080, Jean Arthur ,3081
+3081, Edward Arnold ,3082
+3082, Guy Kibbee ,3083
+3083, Eugene Pallette ,3084
+3084, Harry Carey ,3085
+3085, Astrid Allwyn ,3086
+3086, Ruth Donnelly ,3087
+3087, Grant Mitchell ,3088
+3088, H.V. Kaltenborn ,3089
+3089, Charles Lane ,3090
+3090, Pierre Watkin ,3091
+3091, Dick Elliott ,3092
+3092,Roy Scheider ,3093
+3093, Richard Dreyfuss ,3094
+3094, Lorraine Gary ,3095
+3095, Murray Hamilton ,3096
+3096, Carl Gottlieb ,3097
+3097, Jeffrey Kramer ,3098
+3098, Susan Backlinie ,3099
+3099, Jonathan Filley ,3100
+3100, Ted Grossman ,3101
+3101, Chris Rebello ,3102
+3102, Jay Mello ,3103
+3103, Lee Fierro ,3104
+3104, Jeffrey Voorhees ,3105
+3105, Craig Kingsbury ,3106
+3106, Robert Nevin ,3107
+3107, Peter Benchley ,3108
+3108, Jonathan Searle ,3109
+3109,Jay Baruchel ,3110
+3110, Gerard Butler ,3111
+3111, Christopher Mintz-Plasse ,3112
+3112, Craig Ferguson ,3113
+3113, America Ferrera ,3114
+3114, T.J. Miller ,3115
+3115, Kristen Wiig ,3116
+3116, Robin Atkin Downes ,3117
+3117, Philip McGrade ,3118
+3118, Kieron Elliott ,3119
+3119, Ashley Jensen ,3120
+3120, David Tennant ,3121
+3121,Toni Collette ,3122
+3122, Philip Seymour Hoffman ,3123
+3123, Christopher Massey ,3124
+3124, Oliver Marks ,3125
+3125, Daisy Kocher ,3126
+3126, Daniel Marks ,3127
+3127, Hamish Hughes ,3128
+3128, Dan Doherty ,3129
+3129, Julie Forsyth ,3130
+3130, Mandy Mao ,3131
+3131, Patrick McCabe ,3132
+3132, Adam Elliot ,3133
+3133, Mr. Peck ,3134
+3134, Michael James Allen ,3135
+3135, Bill Murphy ,3136
+3136, Shaun Patten ,3137
+3137,Max von Sydow as Antonius Block as Gunnar Björnstrand as Jöns,3138
+3138, Blacksmith's Wife as Maud Hansson as Witch as Inga Landgré as Karin,3139
+3139, Church Painter as Erik Strandmark as Jonas Skat as Siv Aleros as Flagellant(uncredited) as Sten Ardenstam as Knight(uncredited) as Harry Asklund as The Landlord(uncredited) as Benkt-Åke Benktsson as Merchant at the Inn(uncredited),3140
+3140,Matt Damon ,3141
+3141, Caitríona Balfe ,3142
+3142, Noah Jupe ,3143
+3143, Tracy Letts ,3144
+3144, Remo Girone ,3145
+3145, Ray McKinnon ,3146
+3146, JJ Feild ,3147
+3147, Jack McMullen ,3148
+3148, Corrado Invernizzi ,3149
+3149, Joe Williamson ,3150
+3150, Ian Harding ,3151
+3151, Christopher Darga ,3152
+3152, Shawn Law ,3153
+3153, Emil Beheshti ,3154
+3154, Darrin Prescott ,3155
+3155,Brie Larson ,3156
+3156, Jacob Tremblay ,3157
+3157, Sean Bridgers ,3158
+3158, Wendy Crewson ,3159
+3159, Sandy McMaster ,3160
+3160, Matt Gordon ,3161
+3161, Amanda Brugel ,3162
+3162, Joe Pingue ,3163
+3163, Joan Allen ,3164
+3164, Zarrin Darnell-Martin ,3165
+3165, Cas Anvar ,3166
+3166, William H. Macy ,3167
+3167, Jee-Yun Lee ,3168
+3168, Randal Edwards ,3169
+3169, Justin Mader ,3170
+3170, Ola Sturik ,3171
+3171, Rodrigo Fernandez-Stoll ,3172
+3172, Rory O'Shea ,3173
+3173,Jeff Bridges ,3174
+3174, Julianne Moore ,3175
+3175, David Huddleston ,3176
+3176, Tara Reid ,3177
+3177, Philip Moon ,3178
+3178, Mark Pellegrino ,3179
+3179, Uli Kunkel… ,3180
+3180, Nihilist #2 ,3181
+3181, Nihilist #3 ,3182
+3182, Smokey ,3183
+3183, Dude's Landlord ,3184
+3184, Jesus Quintana ,3185
+3185, Quintana's Partner ,3186
+3186, Maude's Thug #1 ,3187
+3187, Maude's Thug #2(as Terrance Burton),3188
+3188,Chishû Ryû ,3189
+3189, Chieko Higashiyama ,3190
+3190, Sô Yamamura ,3191
+3191, Setsuko Hara ,3192
+3192, Haruko Sugimura ,3193
+3193, Kuniko Miyake ,3194
+3194, Nobuo Nakamura ,3195
+3195, Shirô Ôsaka ,3196
+3196, Hisao Toake ,3197
+3197, Teruko Nagaoka ,3198
+3198, Mutsuko Sakura ,3199
+3199, Toyo Takahashi ,3200
+3200, Tôru Abe ,3201
+3201, Sachiko Mitani ,3202
+3202, Zen Murase ,3203
+3203, Mitsuhiro Môri ,3204
+3204,Brad Garrett ,3205
+3205, Lou Romano ,3206
+3206, Patton Oswalt ,3207
+3207, Brian Dennehy ,3208
+3208, Peter Sohn ,3209
+3209, Peter O'Toole ,3210
+3210, Janeane Garofalo ,3211
+3211, Will Arnett ,3212
+3212, Julius Callahan ,3213
+3213, Tony Fucile ,3214
+3214, Jake Steinfeld ,3215
+3215, Brad Bird ,3216
+3216, Stéphane Roux ,3217
+3217, Jack Bird ,3218
+3218,Sylvester Stallone ,3219
+3219, Carl Weathers ,3220
+3220, Burgess Meredith ,3221
+3221, Thayer David ,3222
+3222, Joe Spinell ,3223
+3223, Jimmy Gambina ,3224
+3224, Al Silvani ,3225
+3225, George Memmoli ,3226
+3226, Jodi Letizia ,3227
+3227, Diana Lewis ,3228
+3228, George O'Hanlon ,3229
+3229, Larry Carroll ,3230
+3230, Stan Shaw ,3231
+3231, Don Sherman ,3232
+3232, Billy Sands ,3233
+3233,Don Cheadle ,3234
+3234, Sophie Okonedo ,3235
+3235, Xolani Mali ,3236
+3236, Desmond Dube ,3237
+3237, Hakeem Kae-Kazim ,3238
+3238, Tony Kgoroge ,3239
+3239, Rosie Motene ,3240
+3240, Neil McCarthy ,3241
+3241, Mabutho 'Kid' Sithole ,3242
+3242, Fana Mokoena ,3243
+3243, Jeremiah Ndlovu ,3244
+3244, Lebo Mashile ,3245
+3245, Leleti Khumalo ,3246
+3246, Kgomotso Seitshohlo ,3247
+3247, Lerato Mokgotho ,3248
+3248, Patrick Stewart ,3249
+3249, Dafne Keen ,3250
+3250, Stephen Merchant ,3251
+3251, Elizabeth Rodriguez ,3252
+3252, Richard E. Grant ,3253
+3253, Eriq La Salle ,3254
+3254, Elise Neal ,3255
+3255, Quincy Fouse ,3256
+3256, Al Coronel ,3257
+3257, Frank Gallegos ,3258
+3258, Anthony Escobar ,3259
+3259, Reynaldo Gallegos ,3260
+3260, Krzysztof Soszynski ,3261
+3261, Stephen Dunlevy ,3262
+3262, Daniel Bernhardt ,3263
+3263, Ryan Sturz ,3264
+3264,Maria Falconetti ,3265
+3265, Eugene Silvain ,3266
+3266, André Berley ,3267
+3267, Maurice Schutz ,3268
+3268, Antonin Artaud ,3269
+3269, Michel Simon ,3270
+3270, Jean d'Yd ,3271
+3271, Louis Ravet ,3272
+3272, Armand Lurville ,3273
+3273, Jacques Arnna ,3274
+3274, Alexandre Mihalesco ,3275
+3275, Léon Larive ,3276
+3276, Jean Aymé ,3277
+3277, Camille Bardou ,3278
+3278, 13th Earl of Warwick ,3279
+3279, Juge (Judge)(uncredited) ,3280
+3280, Jean Lemaître(uncredited) ,3281
+3281, Martin Ladvenu(uncredited) ,3282
+3282, Juge (Judge)(uncredited),3283
+3283,Mark Ruffalo ,3284
+3284, Rachel McAdams ,3285
+3285, John Slattery ,3286
+3286, Brian d'Arcy James ,3287
+3287, Stanley Tucci ,3288
+3288, Elena Wohl ,3289
+3289, Gene Amoroso ,3290
+3290, Doug Murray ,3291
+3291, Sharon McFarlane ,3292
+3292, Jamey Sheridan ,3293
+3293, Neal Huff ,3294
+3294, Robert B. Kennedy ,3295
+3295, Duane Murray ,3296
+3296, Brian Chamberlain ,3297
+3297, Michael Cyril Creighton ,3298
+3298,Charlie Sheen ,3299
+3299, Forest Whitaker ,3300
+3300, Francesco Quinn ,3301
+3301, Kevin Dillon ,3302
+3302, John C. McGinley ,3303
+3303, Reggie Johnson ,3304
+3304, Mark Moses ,3305
+3305, Corey Glover ,3306
+3306, Johnny Depp ,3307
+3307, Chris Pedersen ,3308
+3308, Bob Orwig ,3309
+3309, Corkey Ford ,3310
+3310, David Neidorf ,3311
+3311, Richard Edson ,3312
+3312, Tony Todd ,3313
+3313, Paul Winfield ,3314
+3314, Rick Rossovich ,3315
+3315, Bess Motta ,3316
+3316, Dick Miller ,3317
+3317, Shawn Schepps ,3318
+3318, Bruce M. Kerner ,3319
+3319, Franco Columbu ,3320
+3320, Brad Rearden ,3321
+3321, Brian Thompson ,3322
+3322, William Wisher ,3323
+3323, Ken Fritz ,3324
+3324, Tom Oberhaus ,3325
+3325,Suriya ,3326
+3326, Lijo Mol Jose ,3327
+3327, Manikandan K. ,3328
+3328, Rajisha Vijayan ,3329
+3329, Prakash Raj ,3330
+3330, Rao Ramesh ,3331
+3331, Guru Somasundaram ,3332
+3332, M.S. Bhaskar ,3333
+3333, V. Jayaprakash ,3334
+3334, Sibi Thomas ,3335
+3335, Gunasekaran ,3336
+3336, Kathirvel ,3337
+3337, Subbulakshmi Kathirvel(as Sujatha) ,3338
+3338, Inspector Baashyam ,3339
+3339, S.I. Gurumoorthy ,3340
+3340, Inspector Albi Antony ,3341
+3341, Veerasamy ,3342
+3342, Kirubakaran(as Balahasan),3343
+3343, Louise Lemoine Torrès ,3344
+3344, Rodolphe Pauly ,3345
+3345, Mariane Plasteig ,3346
+3346, Diabolo ,3347
+3347, Denis Evrard ,3348
+3348, Albert Delpy ,3349
+3349, Marie Pillet ,3350
+3350,Daniel Brühl ,3351
+3351, Olivia Wilde ,3352
+3352, Alexandra Maria Lara ,3353
+3353, Pierfrancesco Favino ,3354
+3354, David Calder ,3355
+3355, Natalie Dormer ,3356
+3356, Stephen Mangan ,3357
+3357, Christian McKay ,3358
+3358, Alistair Petrie ,3359
+3359, Julian Rhind-Tutt ,3360
+3360, Colin Stinton ,3361
+3361, Jamie de Courcey ,3362
+3362, Augusto Dallara ,3363
+3363, Ilario Calvo ,3364
+3364, Patrick Baladi ,3365
+3365, Vincent Riotta ,3366
+3366, Martin Savage ,3367
+3367,Faye Dunaway ,3368
+3368, William Holden ,3369
+3369, Peter Finch ,3370
+3370, Wesley Addy ,3371
+3371, Arthur Burghardt ,3372
+3372, Bill Burrows ,3373
+3373, Jordan Charney ,3374
+3374, Kathy Cronkite ,3375
+3375, Ed Crowley ,3376
+3376, Jerome Dempsey ,3377
+3377, Conchata Ferrell ,3378
+3378, Gene Gross ,3379
+3379, Stanley Grover ,3380
+3380, Cindy Grover ,3381
+3381, Darryl Hickman ,3382
+3382, Linda Blair ,3383
+3383, Kitty Winn ,3384
+3384, Jack MacGowran ,3385
+3385, Jason Miller ,3386
+3386, William O'Malley ,3387
+3387, Barton Heyman ,3388
+3388, Peter Masterson ,3389
+3389, Rudolf Schündler ,3390
+3390, Gina Petrushka ,3391
+3391, Robert Symonds ,3392
+3392, Arthur Storch ,3393
+3393, Thomas Bermingham ,3394
+3394, Vasiliki Maliaros ,3395
+3395, Titos Vandis ,3396
+3396, John Mahon ,3397
+3397,Myrna Loy ,3398
+3398, Dana Andrews ,3399
+3399, Fredric March ,3400
+3400, Teresa Wright ,3401
+3401, Virginia Mayo ,3402
+3402, Hoagy Carmichael ,3403
+3403, Harold Russell ,3404
+3404, Gladys George ,3405
+3405, Roman Bohnen ,3406
+3406, Minna Gombell ,3407
+3407, Walter Baldwin ,3408
+3408, Steve Cochran ,3409
+3409, Dorothy Adams ,3410
+3410, Don Beddoe ,3411
+3411, Marlene Aames ,3412
+3412, Charles Halton ,3413
+3413,Wil Wheaton ,3414
+3414, Corey Feldman ,3415
+3415, Jerry O'Connell ,3416
+3416, Kiefer Sutherland ,3417
+3417, Gary Riley ,3418
+3418, Jason Oliver Lipsett ,3419
+3419, Marshall Bell ,3420
+3420, Bruce Kirby ,3421
+3421, William Bronder ,3422
+3422, Scott Beach ,3423
+3423, John Cusack ,3424
+3424, Madeleine Swift ,3425
+3425, Popeye ,3426
+3426,Vincent Cassel ,3427
+3427, Hubert Koundé ,3428
+3428, Saïd Taghmaoui ,3429
+3429, Abdel Ahmed Ghili ,3430
+3430, Solo ,3431
+3431, Joseph Momo ,3432
+3432, Héloïse Rauth ,3433
+3433, Rywka Wajsbrot ,3434
+3434, Olga Abrego ,3435
+3435, Laurent Labasse ,3436
+3436, Choukri Gabteni ,3437
+3437, Nabil Ben Mhamed ,3438
+3438, Benoît Magimel ,3439
+3439, Médard Niang ,3440
+3440, Arash Mansour ,3441
+3441, Abdel-Moulah Boujdouni ,3442
+3442, Mathilde Vitry ,3443
+3443, Christian Moro ,3444
+3444,Judy Garland ,3445
+3445, Frank Morgan ,3446
+3446, Ray Bolger ,3447
+3447, Bert Lahr ,3448
+3448, Jack Haley ,3449
+3449, Billie Burke ,3450
+3450, Margaret Hamilton ,3451
+3451, Charley Grapewin ,3452
+3452, Pat Walshe ,3453
+3453, Clara Blandick ,3454
+3454, Terry ,3455
+3455, The Singer Midgets ,3456
+3456, Franz Balluck ,3457
+3457, Josefine Balluck ,3458
+3458, Dorothy Barrett ,3459
+3459, Amelia Batchelor ,3460
+3460, Charles Becker ,3461
+3461, Freda Betsky ,3462
+3462,Johnny Depp ,3463
+3463, Keira Knightley ,3464
+3464, Jack Davenport ,3465
+3465, Jonathan Pryce ,3466
+3466, Lee Arenberg ,3467
+3467, Mackenzie Crook ,3468
+3468, Damian O'Hare ,3469
+3469, Giles New ,3470
+3470, Angus Barnett ,3471
+3471, David Bailie ,3472
+3472, Michael Berry Jr. ,3473
+3473, Isaac C. Singleton Jr. ,3474
+3474, Kevin McNally ,3475
+3475, Treva Etienne ,3476
+3476, Guy Siner ,3477
+3477,Craig T. Nelson ,3478
+3478, Holly Hunter ,3479
+3479, Jason Lee ,3480
+3480, Dominique Louis ,3481
+3481, Jean Sincere ,3482
+3482, Eli Fucile ,3483
+3483, Maeve Andrews ,3484
+3484, Spencer Fox ,3485
+3485, Wayne Canney ,3486
+3486, Sarah Vowell ,3487
+3487, Michael Bird ,3488
+3488, Elizabeth Peña ,3489
+3489,Emile Hirsch ,3490
+3490, Vince Vaughn ,3491
+3491, Catherine Keener ,3492
+3492, Marcia Gay Harden ,3493
+3493, William Hurt ,3494
+3494, Brian H. Dierker ,3495
+3495, Kristen Stewart ,3496
+3496, Hal Holbrook ,3497
+3497, Jim Gallien ,3498
+3498, James O'Neill ,3499
+3499, Malinda McCollum ,3500
+3500, Paul Knauls ,3501
+3501, Zach Galifianakis ,3502
+3502, Craig Mutsch ,3503
+3503, Jim Beidler ,3504
+3504, John Decker ,3505
+3505, John Hofer ,3506
+3506,Çetin Tekindor as Hüseyin as Fikret Kuskan as Sadik as Hümeyra as Nuran as Ege Tanman as Deniz as Serif Sezer as Gülbeyaz as Yetkin Dikinciler as Salim as Binnur Kaya as Hanife as Mahmut Gökgöz as Ibrahim as Nergis Çorakçi as Sakine as Bilge Sen as Fatma as Tuba Büyüküstün as Aysun as Özge Özberk as Birgül as Erdal Tosun as Mustafa as Halit Ergenç as Özkan as Tugyan Akay Kavukçu as Hüseyin as Ege Kaya as Aysegül as Muzaffer Demirel as Neset as Burak Akçakaya as Çocuk Sadik,3507
+3507,Carole Lombard as Maria Tura as Jack Benny as Joseph Tura as Robert Stack as Lieutenant Stanislav Sobinski as Felix Bressart as Greenberg as Lionel Atwill as Rawitch as Stanley Ridges as Professor Siletsky as Sig Ruman as Colonel Ehrhardt as Tom Dugan as Bronski as Charles Halton as Producer Jan Dobosz as George Lynn as Actor-Adjutant as Henry Victor as Captain Schultz as Maude Eburne as Anna as Halliwell Hobbes as General Armstrong as Miles Mander as Major Cunningham as Rudolph Anders as Gestapo Sergeant at Desk at Top of Hotel Stairs as Paul Barrett as Polish RAF Pilot(uncredited) as Sven Hugo Borg as German Soldier(uncredited) as Danny Borzage as Member of Audience at Performance of Hamlet,3508
+3508,Richard Gere ,3509
+3509, Cary-Hiroyuki Tagawa ,3510
+3510, Sarah Roemer ,3511
+3511, Jason Alexander ,3512
+3512, Erick Avari ,3513
+3513, Davenia McFadden ,3514
+3514, Robbie Sublett ,3515
+3515, Kevin DeCoste ,3516
+3516, Rob Degnan ,3517
+3517, Tora Hallström ,3518
+3518, Donna Sorbello ,3519
+3519, Frank S. Aronson ,3520
+3520, Troy Doherty ,3521
+3521, Ian Sherman ,3522
+3522, Timothy Crowe ,3523
+3523, Denece Ryland ,3524
+3524, Blake Friedman ,3525
+3525,Kim Min-hee ,3526
+3526, Ha Jung-woo ,3527
+3527, Cho Jin-woong ,3528
+3528, Moon So-ri ,3529
+3529, Kim Tae-ri ,3530
+3530, Yong-nyeo Lee ,3531
+3531, Min-chae Yoo ,3532
+3532, Lee Dong-hwi ,3533
+3533, Kim Hae-sook ,3534
+3534, Kyu-jung Lee ,3535
+3535, Si-eun Kim ,3536
+3536, Si-yeon Ha ,3537
+3537, Rina Takagi ,3538
+3538, Geun-hee Won ,3539
+3539, Jong-Dae Kim ,3540
+3540, Han-sun Jang ,3541
+3541, Eun-yeong Kim ,3542
+3542, Ri-woo Kim ,3543
+3543, Jane Darwell ,3544
+3544, John Carradine ,3545
+3545, Dorris Bowdon ,3546
+3546, Russell Simpson ,3547
+3547, O.Z. Whitehead ,3548
+3548, Eddie Quillan ,3549
+3549, Zeffie Tilbury ,3550
+3550, Frank Sully ,3551
+3551, Frank Darien ,3552
+3552, Shirley Mills ,3553
+3553, Roger Imhof ,3554
+3554, Charles D. Brown ,3555
+3555, John Arledge ,3556
+3556,Brahim Hadjadj ,3557
+3557, Jean Martin ,3558
+3558, Yacef Saadi ,3559
+3559, Samia Kerbash ,3560
+3560, Ugo Paletti ,3561
+3561, Fusia El Kader ,3562
+3562, Mohamed Ben Kassen ,3563
+3563, Franco Moruzzi ,3564
+3564, Tommaso Neri ,3565
+3565, Rouïched ,3566
+3566, Gene Wesson,3567
+3567,Bill Murray ,3568
+3568, Andie MacDowell ,3569
+3569, Chris Elliott ,3570
+3570, Brian Doyle-Murray ,3571
+3571, Marita Geraghty ,3572
+3572, Angela Paton ,3573
+3573, Rick Ducommun ,3574
+3574, Rick Overton ,3575
+3575, Robin Duke ,3576
+3576, Carol Bivins ,3577
+3577, Willie Garson ,3578
+3578, Ken Hudson Campbell ,3579
+3579, Les Podewell ,3580
+3580, Rod Sell ,3581
+3581, Tom Milanovich ,3582
+3582, John M. Watson Sr. ,3583
+3583, Peggy Roeder ,3584
+3584,Emilio Echevarría ,3585
+3585, Goya Toledo ,3586
+3586, Álvaro Guerrero ,3587
+3587, Vanessa Bauche ,3588
+3588, Jorge Salinas ,3589
+3589, Marco Pérez ,3590
+3590, Rodrigo Murray ,3591
+3591, Humberto Busto ,3592
+3592, Gerardo Campbell ,3593
+3593, Rosa María Bianchi ,3594
+3594, Dunia Saldívar ,3595
+3595, Adriana Barraza ,3596
+3596, José Sefami ,3597
+3597, Lourdes Echevarría ,3598
+3598, Laura Almela ,3599
+3599, Ricardo Dalmacci ,3600
+3600, Gustavo Sánchez Parra ,3601
+3601,Laurence Olivier ,3602
+3602, Joan Fontaine ,3603
+3603, Judith Anderson ,3604
+3604, Nigel Bruce ,3605
+3605, Reginald Denny ,3606
+3606, C. Aubrey Smith ,3607
+3607, Gladys Cooper ,3608
+3608, Florence Bates ,3609
+3609, Melville Cooper ,3610
+3610, Leonard Carey ,3611
+3611, Lumsden Hare ,3612
+3612, Edward Fielding ,3613
+3613, Philip Winter ,3614
+3614, Forrester Harvey ,3615
+3615, Bunny Beatty ,3616
+3616, Billy Bevan ,3617
+3617,Julie Andrews ,3618
+3618, Eleanor Parker ,3619
+3619, Richard Haydn ,3620
+3620, Peggy Wood ,3621
+3621, Charmian Carr ,3622
+3622, Heather Menzies-Urich ,3623
+3623, Nicholas Hammond ,3624
+3624, Duane Chase ,3625
+3625, Angela Cartwright ,3626
+3626, Debbie Turner ,3627
+3627, Kym Karath ,3628
+3628, Anna Lee ,3629
+3629, Portia Nelson ,3630
+3630, Ben Wright ,3631
+3631, Daniel Truhitte ,3632
+3632, Gilchrist Stuart ,3633
+3633, George Kennedy ,3634
+3634, Strother Martin ,3635
+3635, J.D. Cannon ,3636
+3636, Lou Antonio ,3637
+3637, Robert Drivas ,3638
+3638, Jo Van Fleet ,3639
+3639, Clifton James ,3640
+3640, Morgan Woodward ,3641
+3641, Luke Askew ,3642
+3642, Marc Cavell ,3643
+3643, Richard Davalos ,3644
+3644, Robert Donner ,3645
+3645, Warren Finnerty ,3646
+3646, John McLiam ,3647
+3647, Wayne Rogers ,3648
+3648,Kanu Bannerjee ,3649
+3649, Karuna Bannerjee ,3650
+3650, Subir Banerjee ,3651
+3651, Chunibala Devi ,3652
+3652, Uma Das Gupta ,3653
+3653, Runki Banerjee ,3654
+3654, Reba Devi ,3655
+3655, Aparna Devi ,3656
+3656, Tulsi Chakraborty ,3657
+3657, school teacher ,3658
+3658, Chinibas,3659
+3659, Rampada Das ,3660
+3660, Dasi Thakurun ,3661
+3661, Ranu Mookerjee ,3662
+3662, Roma(as Rama Gangopadhyay) ,3663
+3663, Baidyanath Majumdar(as Binoy Mukhopadhyay) ,3664
+3664, Harimohan Nag ,3665
+3665, Kshirod Roy ,3666
+3666,Eli Marienthal ,3667
+3667, Harry Connick Jr. ,3668
+3668, Jennifer Aniston ,3669
+3669, James Gammon ,3670
+3670, Cloris Leachman ,3671
+3671, John Mahoney ,3672
+3672, Mary Kay Bergman ,3673
+3673, Devon Cole Borisoff ,3674
+3674, Robert Clotworthy ,3675
+3675, Jennifer Darling ,3676
+3676, Zack Eginton ,3677
+3677, Claudette Colbert ,3678
+3678, Walter Connolly ,3679
+3679, Roscoe Karns ,3680
+3680, Jameson Thomas ,3681
+3681, Alan Hale ,3682
+3682, Arthur Hoyt ,3683
+3683, Blanche Friderici ,3684
+3684, Charles C. Wilson ,3685
+3685, Ernie Adams ,3686
+3686, Jessie Arnold ,3687
+3687, Irving Bacon ,3688
+3688, William Bailey ,3689
+3689, William Begg ,3690
+3690, William A. Boardway ,3691
+3691, Harry C. Bradley ,3692
+3692, George P. Breakston ,3693
+3693,Viola Davis ,3694
+3694, Emma Stone ,3695
+3695, Octavia Spencer ,3696
+3696, Bryce Dallas Howard ,3697
+3697, Ahna O'Reilly ,3698
+3698, Anna Camp ,3699
+3699, Eleanor Henry ,3700
+3700, Emma Henry ,3701
+3701, Christopher Lowell ,3702
+3702, Cicely Tyson ,3703
+3703, Mike Vogel ,3704
+3704, Sissy Spacek ,3705
+3705, Brian Kerwin ,3706
+3706, Wes Chatham ,3707
+3707, Aunjanue Ellis-Taylor ,3708
+3708, Ted Welch ,3709
+3709,Jean-Pierre Léaud ,3710
+3710, Albert Rémy ,3711
+3711, Guy Decomble ,3712
+3712, Georges Flamant ,3713
+3713, Patrick Auffay ,3714
+3714, Daniel Couturier ,3715
+3715, François Nocher ,3716
+3716, Richard Kanayan ,3717
+3717, Renaud Fontanarosa ,3718
+3718, Michel Girard ,3719
+3719, Serge Moati ,3720
+3720, Bernard Abbou ,3721
+3721, Jean-François Bergouignan ,3722
+3722, Michel Lesignor ,3723
+3723, Luc Andrieux ,3724
+3724, Robert Beauvais ,3725
+3725, Bouchon,3726
+3726,Bibi Andersson ,3727
+3727, Liv Ullmann ,3728
+3728, Margaretha Krook ,3729
+3729, Gunnar Björnstrand ,3730
+3730, Jörgen Lindström ,3731
+3731, Terence Bayler ,3732
+3732, Charles McKeown ,3733
+3733, Son of Deuteronomy of Gath ,3734
+3734, Mrs. Big Nose ,3735
+3735, Judith ,3736
+3736, John Case ,3737
+3737, Chris Langham ,3738
+3738, Andrew MacLachlan ,3739
+3739,Scott Weinger ,3740
+3740, Robin Williams ,3741
+3741, Linda Larkin ,3742
+3742, Jonathan Freeman ,3743
+3743, Gilbert Gottfried ,3744
+3744, Douglas Seale ,3745
+3745, Charlie Adler ,3746
+3746, Philip L. Clarke ,3747
+3747, Bruce Gooch ,3748
+3748, Jerry Houser ,3749
+3749, Vera Lockwood ,3750
+3750, Sherry Lynn ,3751
+3751,Manoj Bajpayee ,3752
+3752, Nawazuddin Siddiqui ,3753
+3753, Tigmanshu Dhulia ,3754
+3754, Richa Chadha ,3755
+3755, Reema Sen ,3756
+3756, Piyush Mishra ,3757
+3757, Huma Qureshi ,3758
+3758, Jaideep Ahlawat ,3759
+3759, Vineet Kumar Singh ,3760
+3760, Pankaj Tripathi ,3761
+3761, Jameel Khan ,3762
+3762, Zeishan Quadri ,3763
+3763, Aditya Kumar ,3764
+3764, Satyakam Anand ,3765
+3765, Rajkummar Rao ,3766
+3766, Anurita Jha ,3767
+3767, Faisal Malik ,3768
