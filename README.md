@@ -17,3 +17,21 @@ We had to extract the info available to us with the means that we could and so w
 So we had our data, clean and organised and all in the same place for us to be handled with determination and so we did. We got into the idea that perhaps most of the other sites got their scoring set out of IMDB, most of the data regarding film scores are very similar, and the ratings don't have great outliers, but the small differences between them were enough to let us achieve a new ranking of 250 movies that was, if not more accurate, at least more inclusive with other opinions.
 
 And the results are clear, The Shawshank Redemption fell quite far from the top three leaving the top one available to the movie that has been, for a while, trying to nail down the first place in the best movies of all time: THE GODFATHER. 
+
+
+# Link to Tableau: 
+
+https://public.tableau.com/app/profile/miguel.cuadros8044/viz/IMDBvsBFilms_2/Dashboard1
+
+
+# Resources:
+
+https://public.tableau.com/app/discover
+
+https://www.mongodb.com/es
+
+https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm
+
+
+
+
